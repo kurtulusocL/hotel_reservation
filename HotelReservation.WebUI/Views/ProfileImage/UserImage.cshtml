@@ -1,0 +1,75 @@
+﻿@model IEnumerable<ProfileImage>
+@{
+    ViewData["Title"] = "Profile Image List by User";
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+
+<div class="page-wrapper">
+    <div class="content">
+        <div class="row">
+            <div class="col-sm-12">
+                <h4 class="page-title">@ViewData["Title"]</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="card-box">
+                    <div class="card-block">
+                        <p class="content-group">
+                            <a asp-controller="ProfileImage" asp-action="kurtulusocL" class="btn btn-outline-primary btn-sm btn-rounded">Profile Image List</a> - <a asp-controller="ProfileImage" asp-action="ImageManage" class="btn btn-outline-dark btn-sm btn-rounded">Profile Image Manager</a>
+                        </p>
+                        <div class="table-responsive">
+                            <table class=" table table-hover ">
+                                <thead>
+                                    <tr>
+                                        <th>Image</th>
+                                        <th>User</th>
+                                        <th>User Title</th>
+                                        <th>Created At</th>
+                                        <th>Ops</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td>
+                                                @if (item.AppUserId != null)
+                                                {
+                                                    if (item.AppUser.Title != null || item.AppUser.Title != "")
+                                                    {
+                                                        <img src="~/img/us/profile/@item.Image" style="max-height:90px;max-width:80px;min-height:90px;min-width:80px" class="img-responsive">
+                                                    }
+                                                    else
+                                                    {
+                                                        <img src="~/img/user/profile/@item.Image" style="max-height:90px;max-width:80px;min-height:90px;min-width:80px" class="img-responsive">
+                                                    }
+                                                }
+                                            </td>
+                                            <td>
+                                                @if (item.AppUserId != null)
+                                                {
+                                                    <a asp-controller="ProfileImage" asp-action="UserImage" asp-route-id="@item.AppUserId">@item.AppUser.NameSurname, @item.AppUser.Email</a>
+                                                }
+                                            </td>
+                                            <td>
+                                                @if (item.AppUserId != null)
+                                                {
+                                                    <span>@item.AppUser.Title</span>
+                                                }
+                                            </td>
+                                            <td>@item.CreatedDate.ToShortDateString()</td>
+                                            <td>
+                                                <a asp-controller="ProfileImage" asp-action="Detail" asp-route-id="@item.Id" class="btn btn-outline-info btn-sm">Detail</a>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,43 @@
+﻿@using X.PagedList.Mvc.Core
+@using X.PagedList
+@using X.PagedList.Web.Common
+@model IPagedList<Picture>
+@{
+    ViewData["Title"] = "Hotel Images";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                <div class="page-caption">
+                    <h1 class="page-title">@ViewData["Title"]</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="content">
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model)
+            { 
+                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 mb20">
+                    <a asp-controller="Picture" asp-action="CreateComment" asp-route-id="@item.Id" class="btn btn-outline-primary btn-sm">Drop a Review</a>
+                    <div class="gallery-img">
+                        <a href="~/img/us/web/@item.ImageUrl" class="image-link imghover" title="@item.Title" style="max-height:505px;max-width:350px;min-height:505px;min-width:350px;">
+                            <img src="~/img/us/web/@item.ImageUrl" alt="@item.ImageUrl" class="img-fluid" style="max-height:505px;max-width:350px;min-height:505px;min-width:350px;">
+                        </a>
+                    </div>
+                </div>
+            }
+            
+        </div> 
+        <div class="pagination">
+            <div class="pagination-info">
+                @Html.PagedListPager(Model, page => Url.Action("Index", new { page }), PagedListRenderOptions.ClassicPlusFirstAndLast)
+            </div>
+        </div>
+    </div>
+</div>

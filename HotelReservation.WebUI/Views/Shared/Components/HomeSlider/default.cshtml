@@ -1,0 +1,23 @@
+﻿@model IEnumerable<Picture>
+@{
+    Layout = null;
+}
+
+@foreach(var item in Model)
+{
+    <div class="item">
+        <div class="slider-img">
+            <img src="~/img/us/web/@item.ImageUrl" alt="@item.ImageUrl" style="max-height:696px;max-width:1260px;min-height:696px;min-width:1260px;">
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+                    <div class="slider-captions">
+                        <h1 class="slider-title">Hi, Welcome to Your Hotel</h1>
+                        <a asp-controller="Pricing" asp-action="Index" class="btn btn-primary">Take Reservation</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}

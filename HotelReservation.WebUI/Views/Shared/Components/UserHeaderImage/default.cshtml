@@ -1,0 +1,47 @@
+﻿@model ProfileImage
+@{
+    Layout = null;
+}
+
+@if (Model != null)
+{
+    if (Model.Image != null)
+    {
+        if (Model.AppUserId != null)
+        {
+            <a href="#" class="dropdown-toggle nav-link user-link" data-toggle="dropdown">
+                <span class="user-img">
+                    <img class="rounded-circle" src="~/img/user/profile/@Model.Image" width="24" alt="@Model.Image" title="@Model.AppUser.NameSurname">
+                </span>
+                <span>Hi @Model.AppUser.NameSurname</span>
+            </a>
+        }
+        else
+        {
+            <a href="#" class="dropdown-toggle nav-link user-link" data-toggle="dropdown">
+                <span class="user-img">
+                    <img class="rounded-circle" src="~/img/statics/userImage.jpg" width="24" alt="">
+                </span>
+                <span>No User</span>
+            </a>
+        }
+    }
+    else
+    {
+        <a href="#" class="dropdown-toggle nav-link user-link" data-toggle="dropdown">
+            <span class="user-img">
+                <img class="rounded-circle" src="~/img/statics/userImage.jpg" width="24" alt="user image">
+            </span>
+            <span>Hi @Model.AppUser.NameSurname</span>
+        </a>
+    }
+}
+else
+{
+    <a href="#" class="dropdown-toggle nav-link user-link" data-toggle="dropdown">
+        <span class="user-img">
+            <img class="rounded-circle" src="~/img/statics/userImage.jpg" width="24" alt="">
+        </span>
+
+    </a>
+}

@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Comment>
+@{
+    Layout = null;
+}
+
+@foreach (var item in Model)
+{
+    <li>
+        <div class="comment-author"> <img src="~/img/statics/userImage.jpg" alt="user image" class="rounded-circle"> </div>
+        <div class="comment-info">
+            <div class="comment-header">
+                <h5 class="comment-title">@item.NameSurname - @item.CreatedDate.ToShortDateString()</h5>
+            </div>
+            <div class="comment-content">
+                <p>@item.Text</p>
+                <div class="">
+                    <a class="btn-link mb30">@item.CommentAnswers.Count() answers</a>
+                </div>
+            </div>
+        </div>
+        <ul class="childern list-none">
+            @await Component.InvokeAsync("HotelCommentAnswer",new{id=item.Id})
+        </ul>
+    </li>
+}

@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Guide>
+@{
+    ViewData["Title"] = "Our Guide List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                <div class="page-caption">
+                    <h1 class="page-title">@ViewData["Title"]</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="content">
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
+                    <div class="destination-block">
+                        <div class="desti-img">
+                            <img src="~/img/us/guide/@item.Image" alt="@item.Image" style="max-height:399px;max-width:350px;min-height:399px;min-width:350px">
+                            <a asp-controller="Guide" asp-action="Detail" asp-route-id="@item.Id" class="desti-title">@item.NameSurname</a>
+                            <div class="overlay">
+                            </div>
+                            <div class="text">
+                                <h3 class="mb20 text-white">@item.NameSurname</h3>
+                                <ul class="angle list-none">
+                                    <li>@item.Experience years experience</li>
+                                    <li>@item.Expertise</li>
+                                </ul>
+                                <a asp-controller="Guide" asp-action="Detail" asp-route-id="@item.Id" class="btn-link">Go for @item.NameSurname <i class="fa fa-angle-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

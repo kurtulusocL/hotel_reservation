@@ -1,0 +1,57 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="slider">
+    <div class="owl-carousel owl-one owl-theme">
+        @await Component.InvokeAsync("HomeSlider");
+    </div>
+</div>
+
+<div class="space-medium">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
+                <div class="section-title">
+                    <h2>Your Hotel</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+           @await Component.InvokeAsync("HomeImages")            
+        </div>
+    </div>
+</div>
+<div class="space-medium service-wrapper" style="">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12 mb60">
+                <div class="">
+                    <h2>Our Services</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+           @await Component.InvokeAsync("HomeService")
+        </div>
+    </div>
+</div>
+<div class="space-medium bg-light">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 mb60">
+                <div class="testimonial-head">
+                    <h2 class="mb40">What Our Customers Say About Our Hotel</h2>                    
+                </div>
+            </div>
+            <div class="col-xl-6 col-lg-6 offset-md-1 col-md-6 col-sm-12 col-12 mb60">
+                <div class="testimonial-carousel">
+                    <div class="owl-carousel owl-theme testimonial-owl">                        
+                        @await Component.InvokeAsync("HomeComment")
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
+    <link rel="shortcut icon" type="image/x-icon" href="~/img/statics/Logo 3.png">
+    <title>@ViewData["Title"] | hotel.com</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="~/temp/dashboard/assets/css/bootstrap.min.css">
+    <link href="~/css/pagedlist.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="~/temp/dashboard/assets/css/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" type="text/css" href="~/temp/dashboard/assets/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="~/temp/dashboard/assets/css/select2.min.css">
+    <link rel="stylesheet" type="text/css" href="~/temp/dashboard/assets/css/bootstrap-datetimepicker.min.css">
+    <link rel="stylesheet" type="text/css" href="~/temp/dashboard/assets/plugins/light-gallery/css/lightgallery.min.css">
+    <link rel="stylesheet" type="text/css" href="~/temp/dashboard/assets/css/style.css">
+    <link href="~/temp/thirdPart/ckeditor/contents.css" rel="stylesheet" />
+    <!--[if lt IE 9]>
+        <script src="assets/js/html5shiv.min.js"></script>
+        <script src="assets/js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <div class="main-wrapper">
+        <partial name="_userHeader" />
+
+        <div class="sidebar" id="sidebar">
+            <div class="sidebar-inner slimscroll">
+                @await Component.InvokeAsync("UserNavbar")
+            </div>
+        </div>
+        @RenderBody()
+    </div>
+    <div class="~/temp/dashboard/sidebar-overlay" data-reff=""></div>
+    <script src="~/temp/dashboard/assets/js/jquery-3.2.1.min.js"></script>
+    <script src="~/temp/thirdPart/ckeditor/ckeditor.js"></script>
+    <script src="~/temp/dashboard/assets/js/popper.min.js"></script>
+    <script src="~/temp/dashboard/assets/js/bootstrap.min.js"></script>
+    <script src="~/temp/dashboard/assets/js/jquery.dataTables.min.js"></script>
+    <script src="~/temp/dashboard/assets/js/dataTables.bootstrap4.min.js"></script>
+    <script src="~/temp/dashboard/assets/js/select2.min.js"></script>
+    <script src="~/temp/dashboard/assets/js/moment.min.js"></script>
+    <script src="~/temp/dashboard/assets/js/bootstrap-datetimepicker.min.js"></script>
+    <script src="~/temp/dashboard/assets/js/jquery.slimscroll.js"></script>
+    <script src="~/temp/dashboard/assets/js/Chart.bundle.js"></script>
+    <script src="~/temp/dashboard/assets/js/chart.js"></script>
+    <script src="~/temp/dashboard/assets/plugins/light-gallery/js/lightgallery-all.min.js"></script>
+    <script src="~/temp/dashboard/assets/js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Entities\bin\Debug\net6.0\HotelReservation.Entities.deps.json
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Entities\bin\Debug\net6.0\HotelReservation.Entities.dll
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Entities\bin\Debug\net6.0\HotelReservation.Entities.pdb
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Entities\obj\Debug\net6.0\HotelReservation.Entities.csproj.AssemblyReference.cache
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Entities\obj\Debug\net6.0\HotelReservation.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Entities\obj\Debug\net6.0\HotelReservation.Entities.AssemblyInfoInputs.cache
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Entities\obj\Debug\net6.0\HotelReservation.Entities.AssemblyInfo.cs
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Entities\obj\Debug\net6.0\HotelReservation.Entities.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Entities\obj\Debug\net6.0\HotelReservation.Entities.dll
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Entities\obj\Debug\net6.0\refint\HotelReservation.Entities.dll
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Entities\obj\Debug\net6.0\HotelReservation.Entities.pdb
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Entities\obj\Debug\net6.0\ref\HotelReservation.Entities.dll
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Entities\bin\Debug\net6.0\HotelReservation.Entities.runtimeconfig.json
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Entities\bin\Debug\net6.0\HotelReservation.Core.dll
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Entities\bin\Debug\net6.0\HotelReservation.Core.pdb
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Entities\obj\Debug\net6.0\HotelReservation.Entities.csproj.CopyComplete
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Entities\obj\Debug\net6.0\HotelReservation.Entities.genruntimeconfig.cache

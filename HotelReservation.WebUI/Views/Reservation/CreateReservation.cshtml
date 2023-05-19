@@ -1,0 +1,115 @@
+﻿@model Reservation
+@{
+    ViewData["Title"] = "Set A New Reservation";
+    ViewData["Desc"] = "Please Fill To This Form For Set Reservation";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="post-pageheader">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                <div class=" post-captions">
+                    <h3 class="post-title"><a class="title">@ViewData["Title"]</a></h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="content">
+    <div class="container">
+        <div class="row ">
+            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                <div class="leave-comments mb30">
+                    <h3 class="leave-comments-title">@ViewData["Desc"]</h3>
+                    <form method="post" action="CreateReservation">
+                        @Html.AntiForgeryToken()
+                        <div class="row">
+                            <div class="col-xl-10 col-lg-10 col-md-10 col-sm-12 col-12">
+                            <div class="form-group">
+                                    <label class="control-label required" for="select"><strong>If You Want to One of Extra Service</strong></label>
+                                <div class="select">
+                                    <select id="select" asp-for="ServiceId" name="ServiceId" class="form-control">
+                                        <option>Please Select One Service</option>
+                                        @foreach (var item in ViewBag.Services)
+                                        {
+                                            <option value="@item.Id">@item.ServiceType, @item.Price</option>
+                                        }
+                                    </select>
+                                </div>
+                            </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12">
+                                <div class="form-group">
+                                    <label class="control-label required" for="website"> <strong>Entry Date *</strong></label>
+                                    <input asp-for="EntryDate" name="EntryDate" type="date" class="form-control" placeholder="Entry Date *" required="">
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12">
+                                <div class="form-group">
+                                    <label class="control-label required" for="website"> <strong>Departure Date *</strong></label>
+                                    <input asp-for="DepartureDate" name="DepartureDate" type="date" class="form-control" placeholder="Departure Date *" required="">
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12">
+                                <div class="form-group">
+                                    <label class="control-label required" for="website"> <strong>Number Of People *</strong></label>
+                                    <input asp-for="NumberOfPeople" name="NumberOfPeople" type="number" class="form-control" placeholder="How many people? *" required="">
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12">
+                                <div class="form-group">
+                                    <label class="control-label required" for="website"> <strong>Number Of Room *</strong></label>
+                                    <input asp-for="NumberOfRoom" name="NumberOfRoom" type="number" class="form-control" placeholder="How money room? *" required="">
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 mb10">
+                               <div class="form-group">
+                                    <strong>Need Guide</strong>
+                                    <br />
+                                    <span>
+                                        <input id="HasGuide_Yes" asp-for="HasGuide" name="HasGuide" type="radio" class="with-font" value="True">
+                                        <label for="HasGuide_Yes">Yes</label>
+                                    </span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <span>
+                                        <input id="HasGuide_No" asp-for="HasGuide" name="HasGuide" type="radio" class="with-font" value="False">
+                                        <label for="HasGuide_No">No</label>
+                                    </span>
+                               </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 ">
+                               <div class="form-group">
+                                    <strong>I Read reservation Policy And I Confirmed</strong>
+                                    <br />
+                                    <span>
+                                        <input id="IsPolicyRead" asp-for="IsPolicyRead" name="IsPolicyRead" type="checkbox" class="with-font" required>
+                                        <label for="IsPolicyRead">Confirm Reservation Policy</label> <br />
+                                        <a asp-controller="ReservationPolicy" asp-action="Index" target="_blank" class="btn btn-primary btn-xs mb20 ">Read Policy</a>
+                                    </span>
+                               </div>
+                            </div>
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                <div class="form-group">
+                                    <button id="singlebutton" name="singlebutton" class="btn btn-default btn-xs mb20">Send Reservation</button>
+                                    <input type="hidden" asp-for="ServiceId" />
+                                    <input type="hidden" asp-for="PricingId" />
+                                    <input type="hidden" asp-for="AppUserId" />
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                @if (TempData["success"] != null)
+                {
+                    <h3>@TempData["success"]</h3>
+                }
+                else
+                {
+                    <h3>@TempData["error"]</h3>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+

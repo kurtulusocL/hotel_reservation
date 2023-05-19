@@ -1,0 +1,725 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HotelReservation.WebUI
+build_property.RootNamespace = HotelReservation.WebUI
+build_property.ProjectDir = C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.WebUI\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.WebUI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/About/AboutManage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcQWJvdXRNYW5hZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/About/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/About/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/About/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/About/kurtulusocL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRca3VydHVsdXNvY0wuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/AdminAuth/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BdXRoXENoYW5nZVBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/AdminAuth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BdXRoXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/AdminAuth/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BdXRoXFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/AdminAuth/RoleAssign.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BdXRoXFJvbGVBc3NpZ24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/AdminAuth/UpdateProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BdXRoXFVwZGF0ZVByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Audit/AuditManage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVkaXRcQXVkaXRNYW5hZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Audit/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVkaXRcRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Audit/kurtulusocL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVkaXRca3VydHVsdXNvY0wuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Audit/UserAudit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVkaXRcVXNlckF1ZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Audit/Visitor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVkaXRcVmlzaXRvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/CommentAnswer/AnswerManage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudEFuc3dlclxBbnN3ZXJNYW5hZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/CommentAnswer/Comment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudEFuc3dlclxDb21tZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/CommentAnswer/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudEFuc3dlclxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/CommentAnswer/kurtulusocL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudEFuc3dlclxrdXJ0dWx1c29jTC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Comment/CommentManage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxDb21tZW50TWFuYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Comment/CreateAnswer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxDcmVhdGVBbnN3ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Comment/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Comment/Hotel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxIb3RlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Comment/kurtulusocL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxrdXJ0dWx1c29jTC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Comment/Picture.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxQaWN0dXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Contact/ContactManage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxDb250YWN0TWFuYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Contact/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Contact/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Contact/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Contact/kurtulusocL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxrdXJ0dWx1c29jTC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Error/NotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcTm90Rm91bmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/ExceptionLogger/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhjZXB0aW9uTG9nZ2VyXERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/ExceptionLogger/kurtulusocL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhjZXB0aW9uTG9nZ2VyXGt1cnR1bHVzb2NMLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/ExceptionLogger/LoggerManage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhjZXB0aW9uTG9nZ2VyXExvZ2dlck1hbmFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Guide/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3VpZGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Guide/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3VpZGVcRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Guide/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3VpZGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Guide/GuideDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3VpZGVcR3VpZGVEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Guide/GuideManage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3VpZGVcR3VpZGVNYW5hZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Guide/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3VpZGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Guide/kurtulusocL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3VpZGVca3VydHVsdXNvY0wuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/HomeAdmin/CreateProfilePhoto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZUFkbWluXENyZWF0ZVByb2ZpbGVQaG90by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/HomeAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZUFkbWluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/HomeAdmin/MyProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZUFkbWluXE15UHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/HomeAdmin/MyProfilePhotoList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZUFkbWluXE15UHJvZmlsZVBob3RvTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/HomeUser/CommentAnswer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVVzZXJcQ29tbWVudEFuc3dlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/HomeUser/CommentList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVVzZXJcQ29tbWVudExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/HomeUser/CreateProfilePhoto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVVzZXJcQ3JlYXRlUHJvZmlsZVBob3RvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/HomeUser/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVVzZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/HomeUser/MyAllReservations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVVzZXJcTXlBbGxSZXNlcnZhdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/HomeUser/MyConfirmedReservations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVVzZXJcTXlDb25maXJtZWRSZXNlcnZhdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/HomeUser/MyProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVVzZXJcTXlQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/HomeUser/MyProfilePhotoList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVVzZXJcTXlQcm9maWxlUGhvdG9MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/HomeUser/ReservationPolicy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVVzZXJcUmVzZXJ2YXRpb25Qb2xpY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Hotel/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Hotel/CreateComment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxcQ3JlYXRlQ29tbWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Hotel/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Hotel/HotelDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxcSG90ZWxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Hotel/HotelManage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxcSG90ZWxNYW5hZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Hotel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Hotel/kurtulusocL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxca3VydHVsdXNvY0wuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Hotel/PromotionUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxcUHJvbW90aW9uVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Picture/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGljdHVyZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Picture/CreateComment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGljdHVyZVxDcmVhdGVDb21tZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Picture/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGljdHVyZVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Picture/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGljdHVyZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Picture/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGljdHVyZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Picture/kurtulusocL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGljdHVyZVxrdXJ0dWx1c29jTC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Picture/PictureManage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGljdHVyZVxQaWN0dXJlTWFuYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Pricing/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpY2luZ1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Pricing/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpY2luZ1xEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Pricing/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpY2luZ1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Pricing/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpY2luZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Pricing/kurtulusocL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpY2luZ1xrdXJ0dWx1c29jTC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Pricing/PricingManage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpY2luZ1xQcmljaW5nTWFuYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/ProfileImage/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZUltYWdlXERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/ProfileImage/ImageManage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZUltYWdlXEltYWdlTWFuYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/ProfileImage/kurtulusocL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZUltYWdlXGt1cnR1bHVzb2NMLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/ProfileImage/UserImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZUltYWdlXFVzZXJJbWFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/ReservationPolicy/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25Qb2xpY3lcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/ReservationPolicy/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25Qb2xpY3lcRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/ReservationPolicy/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25Qb2xpY3lcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/ReservationPolicy/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25Qb2xpY3lcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/ReservationPolicy/kurtulusocL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25Qb2xpY3lca3VydHVsdXNvY0wuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/ReservationPolicy/PolicyManage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25Qb2xpY3lcUG9saWN5TWFuYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Reservation/ApprovedReservation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cQXBwcm92ZWRSZXNlcnZhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Reservation/CreateReservation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cQ3JlYXRlUmVzZXJ2YXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Reservation/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Reservation/kurtulusocL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25ca3VydHVsdXNvY0wuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Reservation/NotApprovedReservation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cTm90QXBwcm92ZWRSZXNlcnZhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Reservation/Pricing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cUHJpY2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Reservation/ReservationManage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cUmVzZXJ2YXRpb25NYW5hZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Reservation/Service.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cU2VydmljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Reservation/UserReservation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cVXNlclJlc2VydmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Role/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Role/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Role/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Role/kurtulusocL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxrdXJ0dWx1c29jTC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Role/RoleManage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxSb2xlTWFuYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/SendMail/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VuZE1haWxcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/SendMail/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VuZE1haWxcRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/SendMail/kurtulusocL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VuZE1haWxca3VydHVsdXNvY0wuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/SendMail/MailManage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VuZE1haWxcTWFpbE1hbmFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Service/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Service/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Service/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Service/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Service/kurtulusocL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxrdXJ0dWx1c29jTC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Service/ServiceManage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxTZXJ2aWNlTWFuYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/AboutGuide/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWJvdXRHdWlkZVxkZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/AboutHit/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWJvdXRIaXRcZGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/AdminLastReservations/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWRtaW5MYXN0UmVzZXJ2YXRpb25zXGRlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/AdminPricing/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWRtaW5QcmljaW5nXGRlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/AdminProfileImage/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWRtaW5Qcm9maWxlSW1hZ2VcZGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/AdminReservationProfileImage/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWRtaW5SZXNlcnZhdGlvblByb2ZpbGVJbWFnZVxkZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/AdminService/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWRtaW5TZXJ2aWNlXGRlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/AdminSomeReservations/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWRtaW5Tb21lUmVzZXJ2YXRpb25zXGRlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/CommentAnswerHit/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29tbWVudEFuc3dlckhpdFxkZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/FooterContact/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRm9vdGVyQ29udGFjdFxkZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/FooterSocialMedia/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRm9vdGVyU29jaWFsTWVkaWFcZGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/GetAllAdminHeaderReservation/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcR2V0QWxsQWRtaW5IZWFkZXJSZXNlcnZhdGlvblxkZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/GetAllCommentsForAdmin/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcR2V0QWxsQ29tbWVudHNGb3JBZG1pblxkZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/GetHeaderAdminImage/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcR2V0SGVhZGVyQWRtaW5JbWFnZVxkZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/GetHeaderMobileUser/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcR2V0SGVhZGVyTW9iaWxlVXNlclxkZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/GetHeaderUser/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcR2V0SGVhZGVyVXNlclxkZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/HeaderContact/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGVhZGVyQ29udGFjdFxkZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/HeaderSocialMedia/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGVhZGVyU29jaWFsTWVkaWFcZGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/HomeComment/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSG9tZUNvbW1lbnRcZGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/HomeImages/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSG9tZUltYWdlc1xkZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/HomeService/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSG9tZVNlcnZpY2VcZGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/HomeSlider/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSG9tZVNsaWRlclxkZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/HomeUserProfileImage/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSG9tZVVzZXJQcm9maWxlSW1hZ2VcZGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/HotelCommentAnswer/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSG90ZWxDb21tZW50QW5zd2VyXGRlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/HotelComment/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSG90ZWxDb21tZW50XGRlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/HotelImage/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSG90ZWxJbWFnZVxkZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/ImageCommentAnswer/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSW1hZ2VDb21tZW50QW5zd2VyXGRlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/ImageComment/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSW1hZ2VDb21tZW50XGRlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/UserCommentAnswer/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVXNlckNvbW1lbnRBbnN3ZXJcZGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/UserConfirmedReservations/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVXNlckNvbmZpcm1lZFJlc2VydmF0aW9uc1xkZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/UserHeaderImage/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVXNlckhlYWRlckltYWdlXGRlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/UserHomePricing/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVXNlckhvbWVQcmljaW5nXGRlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/UserHomeService/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVXNlckhvbWVTZXJ2aWNlXGRlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/UserInformation/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVXNlckluZm9ybWF0aW9uXGRlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/UserMobileInformation/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVXNlck1vYmlsZUluZm9ybWF0aW9uXGRlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/UserNavbar/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVXNlck5hdmJhclxkZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/Components/UserProfileImage/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVXNlclByb2ZpbGVJbWFnZVxkZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/_AboutHit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BYm91dEhpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/_adminHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9hZG1pbkhlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/_adminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9hZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/_adminNavbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9hZG1pbk5hdmJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/_Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/_userHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF91c2VySGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/_userLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF91c2VyTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/_userNavbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF91c2VyTmF2YmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/SocialMedia/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWFsTWVkaWFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/SocialMedia/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWFsTWVkaWFcRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/SocialMedia/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWFsTWVkaWFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/SocialMedia/kurtulusocL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWFsTWVkaWFca3VydHVsdXNvY0wuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/SocialMedia/SocialMediaManage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWFsTWVkaWFcU29jaWFsTWVkaWFNYW5hZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/UserAuth/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckF1dGhcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/UserAuth/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckF1dGhcRm9yZ290UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/UserAuth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckF1dGhcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/UserAuth/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckF1dGhcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/UserAuth/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckF1dGhcUmVzZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/UserAuth/UpdateProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckF1dGhcVXBkYXRlUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/User/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/User/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/User/kurtulusocL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxrdXJ0dWx1c29jTC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/User/MemberUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxNZW1iZXJVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/User/UserManage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVc2VyTWFuYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurtulusocL/Desktop/HotelReservation/HotelReservation.WebUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ko8xq3rn2m

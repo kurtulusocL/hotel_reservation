@@ -1,0 +1,101 @@
+﻿@model RegisterDto
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                <div class="page-caption">
+                    <h1 class="page-title">@ViewData["Title"]</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="content">
+    <div class="container">
+        <div class="row ">
+            <div class="col-xl-10 col-lg-10 col-md-7 col-sm-12 col-12 mb30">
+                <div class="tour-booking-form">
+                    <form method="post" asp-action="Register" asp-route-returnUrl="@ViewData["ReturnUrl"]">
+                        @Html.AntiForgeryToken()
+                        <div class="row">
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
+                                <h4 class="tour-form-title">@ViewData["Title"]</h4>
+                            </div>
+                            <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+                                <div class="form-group">
+                                    <label class="control-label">Name Surname *</label>
+                                    <input type="text" asp-for="NameSurname" name="NameSurname" placeholder="NameSurname *" class="form-control" required>
+                                </div>
+                            </div>
+                            <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+                                <div class="form-group">
+                                    <label class="control-label" for="datepicker">Birthdate *</label>
+                                    <div class="input-group">
+                                        <input id="datepicker" asp-for="Birthdate" name="Birthdate" type="date" placeholder="Birthdate *" class="form-control" required>
+                                        <span class="input-group-addon"><i class="fa fa-calendar"></i></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+                                <div class="form-group">
+                                    <label class="control-label"> Gender *</label>
+                                    <input type="text" asp-for="Gender" name="Gender" placeholder="Gender *" class="form-control" required>
+                                </div>
+                            </div>
+                            <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+                                <div class="form-group">
+                                    <label class="control-label"> Username *</label>
+                                    <input type="text" asp-for="Username" name="Username" placeholder="Username *" class="form-control" required>
+                                </div>
+                            </div>
+                            <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+                                <div class="form-group">
+                                    <label class="control-label"> Email Address *</label>
+                                    <input type="email" asp-for="Email" name="Email" placeholder="Email Address *" class="form-control" required>
+                                </div>
+                            </div>
+                            <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+                                <div class="form-group">
+                                    <label class="control-label">Phone Number *</label>
+                                    <input type="text" asp-for="PhoneNumber" name="PhoneNumber" placeholder="Phone Number *" class="form-control" required>
+                                </div>
+                            </div>
+                            <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+                                <div class="form-group">
+                                    <label class="control-label">Country *</label>
+                                    <input type="text" asp-for="Country" name="Country" placeholder="Country *" class="form-control" required>
+                                </div>
+                            </div>
+                            <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+                                <div class="form-group">
+                                    <label class="control-label">Password *</label>
+                                    <input type="password" asp-for="Password" name="Password" class="form-control" required>
+                                </div>
+                            </div>
+                            <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+                                <div class="form-group">
+                                    <label class="control-label">Confirm Password *</label>
+                                    <input type="password" asp-for="ConfirmPassword" name="ConfirmPassword" class="form-control" required>
+                                </div>
+                            </div>
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                <button type="submit" name="singlebutton" class="btn btn-primary">Register</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="row">
+                    @if (TempData["error"] != null)
+                    {
+                        <h3>@TempData["error"]</h3>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

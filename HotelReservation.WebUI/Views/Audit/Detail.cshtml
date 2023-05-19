@@ -1,0 +1,111 @@
+﻿@model Audit
+@{
+    ViewData["Title"] = "Audit Detail";
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+
+<div class="page-wrapper">
+    <div class="content">
+        <div class="row">
+            <div class="col-sm-12">
+                <h4 class="page-title">@ViewData["Title"]</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="card-box">
+                    <div class="card-block">
+                        <p class="content-group">
+                            <a asp-controller="Audit" asp-action="kurtulusocL" class="btn btn-outline-primary btn-sm btn-rounded">Audit List</a> - <a asp-controller="Audit" asp-action="UserAudit" class="btn btn-outline-info btn-sm btn-rounded">User Audit</a> - <a asp-controller="Audit" asp-action="Visitor" class="btn btn-outline-success btn-sm btn-rounded">Visitor Audit</a> - <a asp-controller="Audit" asp-action="AuditManage" class="btn btn-outline-dark btn-sm btn-rounded">Audit Manager</a>
+                        </p>
+                        <dl class="row">
+                            <dt class="col-sm-4">
+                                User ID
+                            </dt>
+                            <dd class="col-sm-8">
+                                @if (Model.UserId != null || Model.UserId != "")
+                                {
+                                    @Model.UserId
+                                }
+                                else
+                                {
+                                    <span>-</span>
+                                }
+                            </dd>
+                            <dt class="col-sm-4">
+                                IP Address
+                            </dt>
+                            <dd class="col-sm-8">
+                                @if (Model.IPAddress != null)
+                                {
+                                    @Model.IPAddress
+                                }
+                                else
+                                {
+                                    <strong>-</strong>
+                                }
+                            </dd>
+                            <dt class="col-sm-4">
+                                Mac Address
+                            </dt>
+                            <dd class="col-sm-8">
+                                @if (Model.MacAddress != null)
+                                {
+                                    @Model.MacAddress
+                                }
+                                else
+                                {
+                                    <strong>-</strong>
+                                }
+                            </dd>
+                            <dt class="col-sm-4">
+                                Language
+                            </dt>
+                            <dd class="col-sm-8">
+                                @if (Model.Language != null)
+                                {
+                                    @Model.Language
+                                }
+                                else
+                                {
+                                    <strong>-</strong>
+                                }
+                            </dd>
+                            <dt class="col-sm-4">
+                                Deleted At
+                            </dt>
+                            <dd class="col-sm-8">
+                                @if (Model.DeletedDate != null)
+                                {
+                                    <span>@Model.DeletedDate.Value.ToShortDateString()</span>
+                                }
+                                else
+                                {
+                                    <strong>No Deleted Date Yet</strong>
+                                }
+                            </dd>
+                        </dl>
+                    </div>
+                </div>
+                <div class="row">
+                    @if (Model.IsConfirmed == true)
+                    {
+                        <a asp-controller="Audit" asp-action="DeActive" asp-route-id="@Model.Id" class="btn btn-outline-warning btn-sm btn-rounded">Suspend</a>
+                    }
+                    else
+                    {
+                        <a asp-controller="Audit" asp-action="Active" asp-route-id="@Model.Id" class="btn btn-outline-warning btn-sm btn-rounded">Share</a>
+                    }
+                    @if (Model.IsDeleted == true)
+                    {
+                        <a asp-controller="Audit" asp-action="NotDeleted" asp-route-id="@Model.Id" class="btn btn-outline-warning btn-sm btn-rounded">Not Deleted</a>
+                    }
+                    else
+                    {
+                        <a asp-controller="Audit" asp-action="Deleted" asp-route-id="@Model.Id" class="btn btn-outline-warning btn-sm btn-rounded">Deleted</a>
+                    }                  
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,57 @@
+﻿@{
+    ViewData["Title"] = "User Index";
+    Layout = "~/Views/Shared/_userLayout.cshtml";
+}
+
+<div class="page-wrapper">
+    <div class="content">  
+        <div class="col-sm-12">
+            <h4 class="page-title" style="float:left">
+                Hi @ViewData["nameSurname"] Welcome Back
+            </h4>           
+        </div>
+        <br />
+        <hr />
+        <div class="row">           
+            <div class="col-12 col-md-6 col-lg-6 col-xl-6">
+                <div class="card member-panel">
+                    <div class="card-header bg-white">
+                        <h4 class="card-title mb-0">Most Used Service</h4>
+                    </div>
+                    <div class="card-body">
+                        <ul class="contact-list">
+                           @await Component.InvokeAsync("UserHomeService")                       
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-6 col-xl-6">
+                <div class="card member-panel">
+                    <div class="card-header bg-white">
+                        <h4 class="card-title mb-0">Most Used Pricing</h4>
+                    </div>
+                    <div class="card-body">
+                        <ul class="contact-list">
+                            @await Component.InvokeAsync("UserHomePricing")
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>      
+    </div>
+    <div class="notification-box">
+        <div class="msg-sidebar notifications msg-noti">
+            <div class="topnav-dropdown-header">
+                <span>Confirmed Reservations</span>
+            </div>
+            <div class="drop-scroll msg-list-scroll" id="msg_list">
+                <ul class="list-box">
+                    @await Component.InvokeAsync("UserConfirmedReservations")                    
+                </ul>
+            </div>
+            <div class="topnav-dropdown-footer">
+                <a asp-controller="HomeUser" asp-action="MyConfirmedReservations" asp-route-id="@ViewData["userId"]">See all messages</a>
+            </div>
+        </div>
+    </div>
+</div>

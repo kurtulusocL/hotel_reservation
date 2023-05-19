@@ -1,0 +1,110 @@
+﻿@using X.PagedList.Mvc.Core
+@using X.PagedList
+@using X.PagedList.Web.Common
+@model IPagedList<Reservation>
+@{
+    ViewData["Title"] = "Not Approved Reservation List";
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+
+<div class="page-wrapper">
+    <div class="content">
+        <div class="row">
+            <div class="col-sm-12">
+                <h4 class="page-title">@ViewData["Title"]</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="card-box">
+                    <div class="card-block">
+                        <p class="content-group">
+                            <a asp-controller="Reservation" asp-action="kurtulusocL" class="btn btn-outline-primary btn-sm btn-rounded">Reservation List</a> - <a asp-controller="Reservation" asp-action="ApprovedReservation" class="btn btn-outline-success btn-sm btn-rounded">Approved Reservation</a> - <a asp-controller="Reservation" asp-action="ReservationManage" class="btn btn-outline-dark btn-sm btn-rounded">Reservation Manager</a>
+                        </p>
+                        <div class="table-responsive">
+                            <table class=" table table-hover ">
+                                <thead>
+                                    <tr>
+                                        <th>Date Infos</th>
+                                        <th>User Info</th>
+                                        <th>Price Info</th>
+                                        <th>Service Info</th>
+                                        <th>People Count</th>
+                                        <th>Room Count</th>
+                                        <th>Need Guide</th>
+                                        <th>Total Price</th>
+                                        <th>Ops</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td>
+                                                <span>
+                                                    Entry Date: @item.EntryDate.ToShortDateString()<br>
+                                                    Departure Date: @item.DepartureDate.ToShortDateString()<br>
+                                                    Reservation Date: @item.CreatedDate.ToShortDateString()
+                                                </span>
+                                            </td>
+                                            <td>
+                                                @if (item.AppUserId != null)
+                                                {
+                                                    <a asp-controller="Reservation" asp-action="UserReservation" asp-route-id="@item.AppUserId" target="_blank">
+                                                        Name Surname: @item.AppUser.NameSurname<br>
+                                                        Email: @item.AppUser.Email<br>
+                                                        Phone Number: @item.AppUser.PhoneNumber
+                                                    </a>
+                                                }
+                                            </td>
+                                            <td>
+                                                @if (item.PricingId != null)
+                                                {
+                                                    <a asp-controller="Reservation" asp-action="Pricing" asp-route-id="@item.PricingId" target="_blank">
+                                                        Accomodation: @item.Pricing.Accomodation<br>
+                                                        Price: @item.Pricing.Price
+                                                    </a>
+                                                }
+                                            </td>
+                                            <td>
+                                                @if (item.ServiceId != null)
+                                                {
+                                                    <a asp-controller="Reservation" asp-action="Service" asp-route-id="@item.ServiceId" target="_blank">
+                                                        Type: @item.Service.ServiceType <br>
+                                                        Price: @item.Service.Price
+                                                    </a>
+                                                }
+                                            </td>
+                                            <td>@item.NumberOfPeople</td>
+                                            <td>@item.NumberOfRoom</td>
+                                            <td>
+                                                @if (item.HasGuide == true)
+                                                {
+                                                    <span>Has Guide</span>
+                                                }
+                                                else
+                                                {
+                                                    <span>Has Not Guide</span>
+                                                }
+                                            </td>
+                                            <td>@item.TotalPrice.ToString()</td>
+                                            <td>
+                                                <a asp-controller="Reservation" asp-action="SetApproved" asp-route-id="@item.Id" class="btn btn-outline-info btn-sm">Confirm</a>
+                                                <a asp-controller="Reservation" asp-action="Detail" asp-route-id="@item.Id" class="btn btn-outline-success btn-sm">Detail</a>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="pagination">
+                            <div class="pagination-info">
+                                @Html.PagedListPager(Model, page => Url.Action("NotApprovedReservation", new { page }), PagedListRenderOptions.ClassicPlusFirstAndLast)
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

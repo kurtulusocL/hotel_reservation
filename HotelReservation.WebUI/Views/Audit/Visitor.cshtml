@@ -1,0 +1,103 @@
+﻿@using X.PagedList.Mvc.Core
+@using X.PagedList
+@using X.PagedList.Web.Common
+@model IPagedList<Audit>
+@{
+    ViewData["Title"] = "Audit List by Visitor";
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+
+<div class="page-wrapper">
+    <div class="content">
+        <div class="row">
+            <div class="col-sm-12">
+                <h4 class="page-title">@ViewData["Title"]</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="card-box">
+                    <div class="card-block">
+                        <p class="content-group">
+                            <a asp-controller="Audit" asp-action="UserAudit" class="btn btn-outline-primary btn-sm btn-rounded">User Audit</a> - <a asp-controller="Audit" asp-action="kurtulusocL" class="btn btn-outline-success btn-sm btn-rounded">Audit List</a> - <a asp-controller="Audit" asp-action="AuditManage" class="btn btn-outline-dark btn-sm btn-rounded">Audit Manager</a>
+                        </p>
+                        <div class="table-responsive">
+                            <table class=" table table-hover ">
+                                <thead>
+                                    <tr>
+                                        <th>Username</th>
+                                        <th>Accessed Area</th>
+                                        <th>Browser</th>
+                                        <th>Device</th>
+                                        <th>Platform</th>
+                                        <th>Date</th>
+                                        <th>Ops</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td>
+                                                @if (item.UserName != null || item.UserName != "")
+                                                {
+                                                    @item.UserName
+                                                }
+                                                else
+                                                {
+                                                    <strong>Visitor</strong>
+                                                }
+                                            </td>
+                                            <td>
+                                                @if (item.AreaAccessed == "/")
+                                                {
+                                                    <strong>HomePage</strong>
+                                                }
+                                                else
+                                                {
+                                                    @item.AreaAccessed
+                                                }
+                                            </td>
+                                            <td>
+                                                <span>
+                                                    Version: @item.BrowserVersion
+                                                    <br />
+                                                    Browser: @item.Browser
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span>
+                                                    Device Model: @item.DeviceModel
+                                                    <br />
+                                                    Device: @item.Device
+                                                </span>
+                                            </td>
+                                            <td>
+                                                @if (item.Platform != null)
+                                                {
+                                                    @item.Platform
+                                                }
+                                                else
+                                                {
+                                                    <strong>-</strong>
+                                                }
+                                            </td>
+                                            <td>@item.CreatedDate.ToShortDateString()</td>
+                                            <td>
+                                                <a asp-controller="Audit" asp-action="Detail" asp-route-id="@item.Id" class="btn btn-outline-info btn-sm">Detail</a>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="pagination">
+                            <div class="pagination-info">
+                                @Html.PagedListPager(Model, page => Url.Action("Visitor", new { page }), PagedListRenderOptions.ClassicPlusFirstAndLast)
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,17 @@
+﻿@model IEnumerable<Service>
+@{
+    Layout = null;
+}
+
+@foreach (var item in Model)
+{
+    <li>
+        <div class="contact-cont">
+            <div class="contact-info">
+                <span class="contact-name text-ellipsis">@item.ServiceType</span>
+                <span class="contact-date">@item.Price</span>
+                <span class="contact-date">@item.Reservations.Count() reservations</span>
+            </div>
+        </div>
+    </li>
+}

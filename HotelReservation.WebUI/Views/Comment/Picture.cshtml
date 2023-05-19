@@ -1,0 +1,81 @@
+﻿@using System.Web
+@using X.PagedList.Mvc.Core
+@using X.PagedList
+@using X.PagedList.Web.Common
+@model IPagedList<Comment>
+@{
+    ViewData["Title"] = "Comment List by Picture";
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+
+<div class="page-wrapper">
+    <div class="content">
+        <div class="row">
+            <div class="col-sm-12">
+                <h4 class="page-title">@ViewData["Title"]</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="card-box">
+                    <div class="card-block">
+                        <p class="content-group">
+                            <a asp-controller="Comment" asp-action="kurtulusocL" class="btn btn-outline-primary btn-sm btn-rounded">Comment List</a> - <a asp-controller="Comment" asp-action="CommentManage" class="btn btn-outline-dark btn-sm btn-rounded">Comment Manager</a>
+                        </p>
+                        <div class="table-responsive">
+                            <table class=" table table-hover ">
+                                <thead>
+                                    <tr>
+                                        <th>Post</th>
+                                        <th>Name Surname</th>
+                                        <th>Email Address</th>
+                                        <th>Subject</th>
+                                        <th>Answers</th>
+                                        <th>Created At</th>
+                                        <th>Ops</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td>
+                                                @if (item.PictureId != null)
+                                                {
+                                                    <span>Picture Comment</span>
+                                                }
+                                            </td>
+                                            <td>@item.NameSurname</td>
+                                            <td>@item.EmailAddress</td>
+                                            <td>
+                                                @if (item.Subject.Length > 55)
+                                                {
+                                                    @Html.Raw(HttpUtility.HtmlDecode(More.SafeSubstring(item.Subject,55)+"..."))
+                                                }
+                                                else
+                                                {
+                                                    @Html.Raw(HttpUtility.HtmlDecode(More.SafeSubstring(item.Subject,55)))
+                                                }
+                                            </td>
+                                            <td>@item.CommentAnswers.Count()</td>
+                                            <td>@item.CreatedDate.ToShortDateString()</td>
+                                            <td>
+                                                <a asp-controller="Comment" asp-action="CreateAnswer" asp-route-id="@item.Id" class="btn btn-outline-primary btn-sm">Send Answer</a>
+                                                <a asp-controller="Comment" asp-action="Detail" asp-route-id="@item.Id" class="btn btn-outline-info btn-sm">Detail</a>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="pagination">
+                            <div class="pagination-info">
+                                @Html.PagedListPager(Model, page => Url.Action("Picture", new { page }), PagedListRenderOptions.ClassicPlusFirstAndLast)
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

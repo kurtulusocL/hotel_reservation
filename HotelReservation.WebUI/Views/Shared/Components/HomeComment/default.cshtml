@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Comment>
+@{
+    Layout = null;
+}
+
+@foreach (var item in Model)
+{
+    <div class="item">
+        <div class="testimonial-block">
+            <div class="testimonial-content">
+                <p class="testimonial-text">“@item.Text”</p>
+                <span class="testi-meta"><strong>- @item.NameSurname</strong> (Our Tourist)</span>
+                <div class="testi-arrow"></div>
+            </div>
+            <div class="testi-img">
+                @if (item.AppUserId != null)
+                {
+                    @await Component.InvokeAsync("HomeUserProfileImage",new{id=item.AppUserId})
+                }
+                else
+                {
+                    <img src="~/img/statics/userImage.jpg" alt="" class="rounded-circle" style="max-height:170px;max-width:170px;min-height:170px;min-width:170px;">
+                }
+            </div>
+        </div>
+    </div>
+}

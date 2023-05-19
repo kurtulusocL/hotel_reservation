@@ -1,0 +1,89 @@
+﻿@model Comment
+@{
+    ViewData["Title"] = "Comment Detail";
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+
+<div class="page-wrapper">
+    <div class="content">
+        <div class="row">
+            <div class="col-sm-12">
+                <h4 class="page-title">@ViewData["Title"]</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="card-box">
+                    <div class="card-block">
+                        <p class="content-group">
+                            <a asp-controller="Comment" asp-action="kurtulusocL" class="btn btn-outline-primary btn-sm btn-rounded">Comment List</a> - <a asp-controller="Comment" asp-action="CommentManage" class="btn btn-outline-dark btn-sm btn-rounded">Comment Manager</a>
+                        </p>
+                        <dl class="row">
+                            <dt class="col-sm-4">
+                                User Information
+                            </dt>
+                            <dd class="col-sm-8">
+                                @if (Model.AppUserId != null || Model.AppUserId != "")
+                                {
+                                    <span>
+                                        User ID: @Model.AppUserId <br />
+                                        User: @Model.NameSurname, @Model.EmailAddress
+                                    </span>
+                                }
+                            </dd>
+                            <dt class="col-sm-4">
+                                Comment Subject
+                            </dt>
+                            <dd class="col-sm-8">
+                                @Model.Subject
+                            </dd>
+                            <dt class="col-sm-4">
+                                Comment
+                            </dt>
+                            <dd class="col-sm-8">
+                                @Model.Text
+                            </dd>
+                            <dt class="col-sm-4">
+                                Created At
+                            </dt>
+                            <dd class="col-sm-8">
+                                @Model.CreatedDate.ToShortDateString()
+                            </dd>
+                            <dt class="col-sm-4">
+                                Deleted At
+                            </dt>
+                            <dd class="col-sm-8">
+                                @if (Model.DeletedDate != null)
+                                {
+                                    <span>@Model.DeletedDate.Value.ToShortDateString()</span>
+                                }
+                                else
+                                {
+                                    <strong>No Deleted Date Yet</strong>
+                                }
+                            </dd>
+                        </dl>
+                    </div>
+                </div>
+                <div class="row">
+                    @if (Model.IsConfirmed == true)
+                    {
+                        <a asp-controller="Comment" asp-action="DeActive" asp-route-id="@Model.Id" class="btn btn-outline-warning btn-sm btn-rounded">Suspend</a>
+                    }
+                    else
+                    {
+                        <a asp-controller="Comment" asp-action="Active" asp-route-id="@Model.Id" class="btn btn-outline-warning btn-sm btn-rounded">Share</a>
+                    }
+                    @if (Model.IsDeleted == true)
+                    {
+                        <a asp-controller="Comment" asp-action="NotDeleted" asp-route-id="@Model.Id" class="btn btn-outline-warning btn-sm btn-rounded">Not Deleted</a>
+                    }
+                    else
+                    {
+                        <a asp-controller="Comment" asp-action="Deleted" asp-route-id="@Model.Id" class="btn btn-outline-warning btn-sm btn-rounded">Deleted</a>
+                    }                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

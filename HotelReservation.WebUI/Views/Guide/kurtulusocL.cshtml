@@ -1,0 +1,58 @@
+﻿@model IEnumerable<Guide>
+@{
+    ViewData["Title"] = "Guide List";
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+
+<div class="page-wrapper">
+    <div class="content">
+        <div class="row">
+            <div class="col-sm-12">
+                <h4 class="page-title">@ViewData["Title"]</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="card-box">
+                    <div class="card-block">
+                        <p class="content-group">
+                            <a asp-controller="Guide" asp-action="Create" class="btn btn-outline-primary btn-sm btn-rounded">+ Add New One</a> - <a asp-controller="Guide" asp-action="GuideManage" class="btn btn-outline-dark btn-sm btn-rounded">Guide Manager</a>
+                        </p>
+                        <div class="table-responsive">
+                            <table class=" table table-hover ">
+                                <thead>
+                                    <tr>
+                                        <th>Image</th>
+                                        <th>Name Surname</th>
+                                        <th>Expertise</th>
+                                        <th>Experience</th>
+                                        <th>Created At</th>
+                                        <th>Ops</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td>
+                                                <img src="~/img/us/guide/@item.Image" style="max-height:90px;max-width:80px;min-height:90px;min-width:80px" class="img-responsive">
+                                            </td>
+                                            <td>@item.NameSurname</td>
+                                            <td>@item.Expertise</td>
+                                            <td>@item.Experience</td>
+                                            <td>@item.CreatedDate.ToShortDateString()</td>
+                                            <td>
+                                                <a asp-controller="Guide" asp-action="GuideDetail" asp-route-id="@item.Id" class="btn btn-outline-info btn-sm">Detail</a>
+                                                <a asp-controller="Guide" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-outline-success btn-sm">Edit</a>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

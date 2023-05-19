@@ -1,0 +1,71 @@
+﻿@{
+    Layout = null;
+}
+
+<div id="sidebar-menu" class="sidebar-menu">
+    <ul>
+        <li class="menu-title">Dashboard</li>
+        <li class="active">
+            <a asp-controller="Home" asp-action="Index"><i class="fa fa-forward"></i> <span>hotel.com</span></a>
+        </li>
+        <li>
+            <a asp-controller="HomeAdmin" asp-action="Index"><i class="fa fa-home"></i> <span>Home</span></a>
+        </li>
+        <li>
+            <a asp-controller="SendMail" asp-action="kurtulusocL"><i class="fa fa-calendar-check-o"></i> <span>Mail List</span></a>
+        </li>
+        <li class="submenu">
+            <a href="#"><i class="fa fa-industry"></i> <span> Us </span> <span class="menu-arrow"></span></a>
+            <ul style="display: none;">
+                <li><a asp-controller="About" asp-action="kurtulusocL">About</a></li>
+                <li><a asp-controller="Contact" asp-action="kurtulusocL">Contact</a></li>
+                <li><a asp-controller="ReservationPolicy" asp-action="kurtulusocL">Reservation Policy</a></li>
+                <li><a asp-controller="SocialMedia" asp-action="kurtulusocL">Social Media</a></li>
+            </ul>
+        </li>
+        <li class="submenu">
+            <a href="#"><i class="fa fa-money"></i> <span> Hotel Informations </span> <span class="menu-arrow"></span></a>
+            <ul style="display: none;">
+                <li><a asp-controller="Hotel" asp-action="kurtulusocL">Hotel</a></li>
+                <li><a asp-controller="Guide" asp-action="kurtulusocL">Guide</a></li>
+                <li><a asp-controller="Reservation" asp-action="kurtulusocL">Reservation</a></li>
+                <li><a asp-controller="Picture" asp-action="kurtulusocL">Images</a></li>
+            </ul>
+        </li>
+        <li class="submenu">
+            <a href="#"><i class="fa fa-adjust"></i> <span> Our Services </span> <span class="menu-arrow"></span></a>
+            <ul style="display: none;">
+                <li><a asp-controller="Pricing" asp-action="kurtulusocL"> Pricing </a></li>
+                <li><a asp-controller="Service" asp-action="kurtulusocL"> Services </a></li>
+            </ul>
+        </li>
+        <li class="submenu">
+            <a href="#"><i class="fa fa-envelope-open-o"></i> <span> Comments</span> <span class="menu-arrow"></span></a>
+            <ul style="display: none;">
+                <li><a asp-controller="Comment" asp-action="kurtulusocL">Comment</a></li>
+                <li><a asp-controller="CommentAnswer" asp-action="kurtulusocL">Comment Answers</a></li>
+            </ul>
+        </li>
+        <li class="submenu">
+            <a href="#"><i class="fa fa-lock"></i> <span> Log / Audit</span> <span class="menu-arrow"></span></a>
+            <ul style="display: none;">
+                <li><a asp-controller="ExceptionLogger" asp-action="kurtulusocL">Exceptions</a></li>
+                <li><a asp-controller="Audit" asp-action="kurtulusocL">Audit Logs</a></li>
+            </ul>
+        </li>
+        <li class="submenu">
+            <a href="#"><i class="fa fa-user-md"></i> <span> User Informations</span> <span class="menu-arrow"></span></a>
+            <ul style="display: none;">
+                <li><a asp-controller="User" asp-action="kurtulusocL">User List</a></li>
+                <li><a asp-controller="ProfileImage" asp-action="kurtulusocL">Profile Images</a></li>
+                <li><a asp-controller="Role" asp-action="kurtulusocL">Role List</a></li>
+            </ul>
+        </li>
+        @if (User.IsInRole("Admins"))
+        {
+            <li>
+                <a asp-controller="AdminAuth" asp-action="Register"><i class="fa fa-laptop"></i> <span>Admin Register</span></a>
+            </li>
+        }
+    </ul>
+</div>

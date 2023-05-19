@@ -1,0 +1,22 @@
+﻿@model IEnumerable<CommentAnswer>
+@{
+    Layout = null;
+}
+
+@foreach (var item in Model)
+{
+    <li>
+        <div class="comment-author"> <img src="~/img/statics/userImage.jpg" alt="user image" class="rounded-circle"> </div>
+        <div class="comment-info">
+            <div class="comment-header">
+                <h5 class="comment-title">@item.Title</h5>
+            </div>
+            <div class="comment-content">
+                <p>@item.Answer</p>
+                <div class="">
+                    <a class="btn-link mb30">@item.CreatedDate.ToString()</a>
+                </div>
+            </div>
+        </div>
+    </li>
+}

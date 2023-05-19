@@ -1,0 +1,71 @@
+﻿@model IEnumerable<Reservation>
+@{
+    Layout = null;
+}
+
+<div class="card-body p-0">
+    <div class="table-responsive">
+        <table class="table mb-0">
+            <thead class="d-none">
+                <tr>
+                    <th>User</th>
+                    <th>Pricing</th>
+                    <th>Servicing</th>
+                    <th>Schdule</th>
+                    <th>Number Of</th>
+                    <th>Total Price</th>
+                    <th class="text-right">Guide</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        @if (item.AppUserId != null)
+                        {
+                            <td style="min-width: 200px;">
+                                @await Component.InvokeAsync("AdminReservationProfileImage", new{id=item.AppUserId})
+                                <h2>
+                                    <a asp-controller="Reservation" asp-action="UserReservation" asp-route-id="@item.AppUserId" target="_blank">@item.AppUser.NameSurname <span>@item.AppUser.Country</span></a>
+                                </h2>
+                            </td>
+                        }
+                        @if (item.PricingId != null)
+                        {
+                            <td>
+                                <h5 class="time-title p-0">@item.Pricing.Price</h5>
+                                <p>@item.Pricing.Accomodation</p>
+                            </td>
+                        }
+                        @if (item.ServiceId != null)
+                        {
+                            <td>
+                                <h5 class="time-title p-0">@item.Service.Price</h5>
+                                <p>@item.Service.ServiceType</p>
+                            </td>
+                        }
+                        <td>
+                            <h5 class="time-title p-0">Entry: @item.EntryDate.ToShortDateString()</h5>
+                            <p>Departure: @item.DepartureDate.ToShortDateString()</p>
+                        </td>
+                        <td>
+                            <h5 class="time-title p-0">People: @item.NumberOfPeople</h5>
+                            <p>Room: @item.NumberOfRoom</p>
+                        </td>
+                        <td>@item.TotalPrice</td>
+                        <td class="text-right">
+                            @if (item.HasGuide == true)
+                            {
+                                <a class="btn btn-outline-primary take-btn">With Guide</a>
+                            }
+                            else
+                            {
+                                <a class="btn btn-outline-primary take-btn">Without Guide</a>
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

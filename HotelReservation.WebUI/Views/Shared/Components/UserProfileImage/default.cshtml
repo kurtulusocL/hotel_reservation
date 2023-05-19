@@ -1,0 +1,32 @@
+﻿@model ProfileImage
+@{
+    Layout = null;
+}
+
+@if (Model != null)
+{
+    if (Model.Image != null)
+    {
+        <div class="profile-img">
+            <a>
+                <img class="avatar" src="~/img/user/profile/@Model.Image" alt="@Model.Image">
+            </a>
+        </div>
+    }
+    else
+    {
+        <div class="profile-img">
+            <a>
+                <img class="avatar" src="~/img/statics/userImage.jpg" alt="profile image">
+            </a>
+        </div>
+    }
+}
+else
+{
+    <div class="profile-img">
+        <a>
+            <img class="avatar" src="~/img/statics/userImage.jpg" alt="profile image">
+        </a>
+    </div>
+}

@@ -1,0 +1,3085 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HotelReservation.WebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HotelReservation.WebUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\css\\PagedList.css",
+      "PackagePath": "staticwebassets\\css\\PagedList.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\statics\\Logo 3.png",
+      "PackagePath": "staticwebassets\\img\\statics\\Logo 3.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\statics\\email.jpg",
+      "PackagePath": "staticwebassets\\img\\statics\\email.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\statics\\noProductImage.jpg",
+      "PackagePath": "staticwebassets\\img\\statics\\noProductImage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\statics\\userImage.jpg",
+      "PackagePath": "staticwebassets\\img\\statics\\userImage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\about\\55552fa2-4bf1-4c86-9334-71292581215c.png",
+      "PackagePath": "staticwebassets\\img\\us\\about\\55552fa2-4bf1-4c86-9334-71292581215c.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\about\\c001c08d-d471-42d6-9f39-19ff4f9ff3d0.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\about\\c001c08d-d471-42d6-9f39-19ff4f9ff3d0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\guide\\07da385b-2812-489c-85d4-acf4ec2bc30a.webp",
+      "PackagePath": "staticwebassets\\img\\us\\guide\\07da385b-2812-489c-85d4-acf4ec2bc30a.webp"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\guide\\0dda33fe-40a9-4e45-bf54-c6ae730efc8f.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\guide\\0dda33fe-40a9-4e45-bf54-c6ae730efc8f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\guide\\304b52d6-428f-483a-ac21-fb0a4e3f023a.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\guide\\304b52d6-428f-483a-ac21-fb0a4e3f023a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\guide\\367331a6-5e23-423d-bb20-d6673ae1d45a.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\guide\\367331a6-5e23-423d-bb20-d6673ae1d45a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\guide\\53545c52-87b7-456c-a808-544c5bc7363b.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\guide\\53545c52-87b7-456c-a808-544c5bc7363b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\guide\\65b52a71-ed0b-4a20-a79b-14af01938e90.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\guide\\65b52a71-ed0b-4a20-a79b-14af01938e90.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\guide\\6f79edf6-b0d3-4c15-a733-d9a69c58d65f.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\guide\\6f79edf6-b0d3-4c15-a733-d9a69c58d65f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\guide\\a405561e-8c85-42fc-8c4e-ce771c91bc8e.webp",
+      "PackagePath": "staticwebassets\\img\\us\\guide\\a405561e-8c85-42fc-8c4e-ce771c91bc8e.webp"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\guide\\ebfbbfeb-f0b1-49ff-9a30-0792b348e1eb.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\guide\\ebfbbfeb-f0b1-49ff-9a30-0792b348e1eb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\guide\\ed516c14-70f5-479e-a73c-a2d449b020fd.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\guide\\ed516c14-70f5-479e-a73c-a2d449b020fd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\hotel\\0771dc48-07f8-4194-bc46-5a77dfc1facb.jpeg",
+      "PackagePath": "staticwebassets\\img\\us\\hotel\\0771dc48-07f8-4194-bc46-5a77dfc1facb.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\profile\\58d2a152-f3d7-4ef9-8e8d-4edd692cbc4f.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\profile\\58d2a152-f3d7-4ef9-8e8d-4edd692cbc4f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\profile\\78032677-bcde-4df0-b9c8-7090299542d5.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\profile\\78032677-bcde-4df0-b9c8-7090299542d5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\profile\\c5cea6ee-f3f8-453b-b5f3-dc201164e191.png",
+      "PackagePath": "staticwebassets\\img\\us\\profile\\c5cea6ee-f3f8-453b-b5f3-dc201164e191.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\profile\\d8f59a29-22a9-43c3-af56-51d9d762199b.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\profile\\d8f59a29-22a9-43c3-af56-51d9d762199b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\socialMedia\\3147ec19-4e7f-47c1-a0e6-ad70c381ae92.png",
+      "PackagePath": "staticwebassets\\img\\us\\socialMedia\\3147ec19-4e7f-47c1-a0e6-ad70c381ae92.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\socialMedia\\53f48c37-b0c1-4be7-af46-c3815a7df008.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\socialMedia\\53f48c37-b0c1-4be7-af46-c3815a7df008.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\socialMedia\\68172cce-b5ef-4274-8bd0-0a5ab5703d87.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\socialMedia\\68172cce-b5ef-4274-8bd0-0a5ab5703d87.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\socialMedia\\be05fd21-2e5d-4842-bca2-d8c1c83dd29b.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\socialMedia\\be05fd21-2e5d-4842-bca2-d8c1c83dd29b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\socialMedia\\c03b5533-f12d-422e-805b-9278fd78e04d.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\socialMedia\\c03b5533-f12d-422e-805b-9278fd78e04d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\socialMedia\\fca47cbd-574f-45ec-9baf-8f1f248cab42.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\socialMedia\\fca47cbd-574f-45ec-9baf-8f1f248cab42.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\web\\087add4a-2d3b-44e2-b97a-b11ae6ba60f2.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\web\\087add4a-2d3b-44e2-b97a-b11ae6ba60f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\web\\243f5ea3-db7c-4077-bdac-59f3321a03d8.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\web\\243f5ea3-db7c-4077-bdac-59f3321a03d8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\web\\2f9d7f0b-82ca-4ec1-8e70-95a9c2f1c7d0.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\web\\2f9d7f0b-82ca-4ec1-8e70-95a9c2f1c7d0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\web\\330ef31a-8ba8-42e2-bf31-dd50ced67080.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\web\\330ef31a-8ba8-42e2-bf31-dd50ced67080.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\web\\41fbce8d-e56a-49ae-8bb9-7d1386744038.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\web\\41fbce8d-e56a-49ae-8bb9-7d1386744038.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\web\\52517f4c-304d-4b1b-94b8-3eee71ea08c3.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\web\\52517f4c-304d-4b1b-94b8-3eee71ea08c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\web\\9cc87da4-85ac-4542-851b-9ee3f4b10b20.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\web\\9cc87da4-85ac-4542-851b-9ee3f4b10b20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\web\\a4baa867-08fd-4412-9acf-0633c23e3e78.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\web\\a4baa867-08fd-4412-9acf-0633c23e3e78.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\web\\b0b3c2ab-a775-4882-b1d7-89f95e474a2c.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\web\\b0b3c2ab-a775-4882-b1d7-89f95e474a2c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\web\\b16d6b79-b671-4649-bb06-c18b42d82cbf.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\web\\b16d6b79-b671-4649-bb06-c18b42d82cbf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\web\\d11f404d-c587-432d-b157-aae6ee514dd8.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\web\\d11f404d-c587-432d-b157-aae6ee514dd8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\web\\d2518b0d-bd43-474b-bc4b-2807709cfcf9.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\web\\d2518b0d-bd43-474b-bc4b-2807709cfcf9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\web\\d831166e-8e14-4797-9271-148de11a2406.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\web\\d831166e-8e14-4797-9271-148de11a2406.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\web\\d99ec5ad-14bb-44b2-8568-ca505c7ff170.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\web\\d99ec5ad-14bb-44b2-8568-ca505c7ff170.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\web\\db9f1f01-3676-4959-b829-c973f3fd3154.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\web\\db9f1f01-3676-4959-b829-c973f3fd3154.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\web\\e1fb46bc-8e58-4fd8-ab33-737c47e0a918.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\web\\e1fb46bc-8e58-4fd8-ab33-737c47e0a918.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\us\\web\\fe154fcb-1819-4ef1-89a8-8a9547f87e13.jpg",
+      "PackagePath": "staticwebassets\\img\\us\\web\\fe154fcb-1819-4ef1-89a8-8a9547f87e13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\img\\user\\profile\\44f0ef63-5d5b-432c-9744-56b821e5e476.jpg",
+      "PackagePath": "staticwebassets\\img\\user\\profile\\44f0ef63-5d5b-432c-9744-56b821e5e476.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\activities.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\activities.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\add-appointment.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\add-appointment.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\add-asset.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\add-asset.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\add-blog.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\add-blog.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\add-department.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\add-department.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\add-doctor.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\add-doctor.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\add-employee.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\add-employee.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\add-expense.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\add-expense.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\add-holiday.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\add-holiday.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\add-leave-type.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\add-leave-type.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\add-leave.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\add-leave.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\add-patient.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\add-patient.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\add-provident-fund.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\add-provident-fund.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\add-role.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\add-role.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\add-salary.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\add-salary.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\add-schedule.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\add-schedule.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\add-tax.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\add-tax.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\appointments.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\appointments.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\css\\bootstrap-datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\css\\bootstrap-datetimepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\css\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\css\\fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\css\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\css\\tagsinput.css",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\css\\tagsinput.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\fonts\\fontawesome-webfont3e6e.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\fonts\\fontawesome-webfont3e6e.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\attachment.png",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\attachment.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\blog\\blog-01.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\blog\\blog-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\blog\\blog-02.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\blog\\blog-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\blog\\blog-03.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\blog\\blog-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\blog\\blog-04.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\blog\\blog-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\blog\\blog-thumb-01.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\blog\\blog-thumb-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\blog\\blog-thumb-02.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\blog\\blog-thumb-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\blog\\blog-thumb-03.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\blog\\blog-thumb-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\blog\\blog-thumb-04.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\blog\\blog-thumb-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\calander.png",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\calander.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\clock.png",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\clock.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\doctor-03.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\doctor-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\doctor-thumb-01.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\doctor-thumb-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\doctor-thumb-02.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\doctor-thumb-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\doctor-thumb-03.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\doctor-thumb-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\doctor-thumb-04.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\doctor-thumb-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\doctor-thumb-05.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\doctor-thumb-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\doctor-thumb-06.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\doctor-thumb-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\doctor-thumb-07.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\doctor-thumb-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\doctor-thumb-08.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\doctor-thumb-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\doctor-thumb-09.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\doctor-thumb-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\doctor-thumb-10.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\doctor-thumb-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\doctor-thumb-11.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\doctor-thumb-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\doctor-thumb-12.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\doctor-thumb-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\logo-dark.png",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\patient-thumb-01.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\patient-thumb-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\patient-thumb-02.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\patient-thumb-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\placeholder-thumb.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\placeholder-thumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\placeholder.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\placeholder.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\sent.png",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\sent.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\user-02.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\user-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\user-03.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\user-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\user-04.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\user-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\user-05.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\user-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\user-06.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\user-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\img\\video-call.jpg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\img\\video-call.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\js\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\js\\Chart.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\js\\bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\js\\bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\js\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\js\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\js\\jquery-ui.min.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\js\\jquery-ui.min.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\js\\jquery.fullcalendar.js",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\js\\jquery.fullcalendar.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\js\\jquery.slimscroll.js",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\js\\jquery.slimscroll.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\js\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\js\\tagsinput.js",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\js\\tagsinput.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\plugins\\light-gallery\\css\\lightgallery.min.css",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\plugins\\light-gallery\\css\\lightgallery.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\plugins\\light-gallery\\fonts\\lgd41d.eot",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\plugins\\light-gallery\\fonts\\lgd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\plugins\\light-gallery\\fonts\\lgd641.eot",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\plugins\\light-gallery\\fonts\\lgd641.eot"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\plugins\\light-gallery\\fonts\\lgd641.svg",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\plugins\\light-gallery\\fonts\\lgd641.svg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\plugins\\light-gallery\\fonts\\lgd641.ttf",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\plugins\\light-gallery\\fonts\\lgd641.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\plugins\\light-gallery\\fonts\\lgd641.woff",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\plugins\\light-gallery\\fonts\\lgd641.woff"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\plugins\\light-gallery\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\plugins\\light-gallery\\img\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\plugins\\light-gallery\\img\\video-play.png",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\plugins\\light-gallery\\img\\video-play.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\plugins\\light-gallery\\img\\vimeo-play.png",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\plugins\\light-gallery\\img\\vimeo-play.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\plugins\\light-gallery\\img\\youtube-play.png",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\plugins\\light-gallery\\img\\youtube-play.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\plugins\\light-gallery\\js\\lightgallery-all.min.js",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\plugins\\light-gallery\\js\\lightgallery-all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\plugins\\summernote\\dist\\font\\summernote4c4d.eot",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\plugins\\summernote\\dist\\font\\summernote4c4d.eot"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\plugins\\summernote\\dist\\font\\summernote4c4d.ttf",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\plugins\\summernote\\dist\\font\\summernote4c4d.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\plugins\\summernote\\dist\\font\\summernote4c4d.woff",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\plugins\\summernote\\dist\\font\\summernote4c4d.woff"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\plugins\\summernote\\dist\\font\\summernoted41d.eot",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\plugins\\summernote\\dist\\font\\summernoted41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\plugins\\summernote\\dist\\summernote-bs4.css",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\plugins\\summernote\\dist\\summernote-bs4.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\assets\\plugins\\summernote\\dist\\summernote-bs4.min.js",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\assets\\plugins\\summernote\\dist\\summernote-bs4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\attendance.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\attendance.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\blank-page.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\blank-page.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\blog-details.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\blog-details.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\blog.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\calendar.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\calendar.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\change-password.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\change-password.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\change-password2.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\change-password2.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\chat.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\chat.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\compose.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\compose.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\create-invoice.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\create-invoice.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\departments.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\departments.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\doctors.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\doctors.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\edit-appointment.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\edit-appointment.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\edit-asset.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\edit-asset.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\edit-blog.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\edit-blog.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\edit-department.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\edit-department.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\edit-doctor.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\edit-doctor.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\edit-employee.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\edit-employee.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\edit-expense.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\edit-expense.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\edit-holiday.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\edit-holiday.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\edit-invoice.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\edit-invoice.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\edit-leave-type.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\edit-leave-type.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\edit-leave.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\edit-leave.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\edit-patient.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\edit-patient.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\edit-profile.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\edit-profile.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\edit-provident-fund.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\edit-provident-fund.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\edit-role.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\edit-role.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\edit-salary.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\edit-salary.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\edit-schedule.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\edit-schedule.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\edit-tax.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\edit-tax.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\email-settings.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\email-settings.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\employees.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\employees.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\error-404.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\error-404.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\error-500.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\error-500.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\expense-reports.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\expense-reports.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\expenses.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\expenses.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\forgot-password.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\forgot-password.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\form-basic-inputs.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\form-basic-inputs.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\form-horizontal.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\form-horizontal.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\form-input-groups.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\form-input-groups.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\form-vertical.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\form-vertical.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\gallery.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\gallery.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\holidays.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\holidays.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\inbox.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\inbox.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\incoming-call.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\incoming-call.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\index.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\invoice-reports.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\invoice-reports.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\invoice-settings.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\invoice-settings.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\invoice-view.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\invoice-view.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\invoices.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\invoices.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\leave-type.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\leave-type.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\leaves.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\leaves.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\localization.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\localization.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\lock-screen.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\lock-screen.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\login.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\mail-view.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\mail-view.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\notifications-settings.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\notifications-settings.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\patients.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\patients.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\payments.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\payments.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\profile.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\profile.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\provident-fund.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\provident-fund.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\register.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\roles-permissions.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\roles-permissions.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\salary-settings.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\salary-settings.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\salary-view.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\salary-view.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\salary.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\salary.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\schedule.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\schedule.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\settings.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\settings.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\tables-basic.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\tables-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\tables-datatables.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\tables-datatables.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\tabs.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\tabs.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\taxes.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\taxes.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\theme-settings.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\theme-settings.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\typography.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\uikit.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\uikit.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\video-call.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\video-call.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\dashboard\\voice-call.html",
+      "PackagePath": "staticwebassets\\temp\\dashboard\\voice-call.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\CHANGES.md",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\CHANGES.md"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\LICENSE.md",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\README.md",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\adapters\\jquery.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\adapters\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\build-config.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\build-config.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\ckeditor.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\config.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\contents.css",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\contents.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\af.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\az.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\bn.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\bn.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\bs.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\bs.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\da.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\de.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\el.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\en-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\en.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\es-mx.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\es.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\et.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\fo.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\gu.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\he.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\id.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\is.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\is.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\it.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\ka.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\ka.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\km.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\mk.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\mn.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\ms.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\ms.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\no.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\si.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\th.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\about\\dialogs\\about.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\about\\dialogs\\about.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\dialog\\dialogDefinition.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\dialog\\dialogDefinition.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\icons.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\icons_hidpi.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\image\\dialogs\\image.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\image\\dialogs\\image.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\image\\images\\noimage.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\image\\images\\noimage.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\link\\dialogs\\anchor.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\link\\dialogs\\anchor.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\link\\dialogs\\link.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\link\\dialogs\\link.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\link\\images\\anchor.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\link\\images\\anchor.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\magicline\\images\\icon.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\magicline\\images\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\pastefromword\\filter\\default.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\pastefromword\\filter\\default.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\scayt\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\scayt\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\scayt\\LICENSE.md",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\scayt\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\scayt\\README.md",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\scayt\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\scayt\\dialogs\\options.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\scayt\\dialogs\\options.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\table\\dialogs\\table.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\table\\dialogs\\table.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\widget\\images\\handle.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\widget\\images\\handle.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\wsc\\LICENSE.md",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\wsc\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\wsc\\README.md",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\wsc\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\wsc\\dialogs\\ciframe.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\wsc\\dialogs\\ciframe.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\wsc\\dialogs\\tmpFrameset.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\wsc\\dialogs\\tmpFrameset.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\wsc\\dialogs\\wsc.css",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\wsc\\dialogs\\wsc.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\wsc\\dialogs\\wsc.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\wsc\\dialogs\\wsc.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\wsc\\dialogs\\wsc_ie.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\wsc\\dialogs\\wsc_ie.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\plugins\\wsc\\skins\\moono-lisa\\wsc.css",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\plugins\\wsc\\skins\\moono-lisa\\wsc.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\css\\samples.css",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\css\\samples.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\img\\github-top.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\img\\github-top.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\img\\header-bg.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\img\\header-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\img\\header-separator.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\img\\header-separator.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\img\\logo.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\img\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\img\\navigation-tip.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\img\\navigation-tip.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\index.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\js\\sample.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\js\\sample.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\js\\sf.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\js\\sf.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\ajax.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\ajax.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\api.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\api.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\appendto.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\appendto.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\assets\\posteddata.php",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\assets\\posteddata.php"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\assets\\sample.jpg",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\assets\\sample.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\datafiltering.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\datafiltering.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\dialog\\dialog.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\dialog\\dialog.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\divreplace.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\divreplace.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\enterkey\\enterkey.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\enterkey\\enterkey.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\htmlwriter\\assets\\outputforflash\\outputforflash.fla",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\htmlwriter\\assets\\outputforflash\\outputforflash.fla"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\htmlwriter\\assets\\outputforflash\\outputforflash.swf",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\htmlwriter\\assets\\outputforflash\\outputforflash.swf"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\htmlwriter\\assets\\outputforflash\\swfobject.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\htmlwriter\\assets\\outputforflash\\swfobject.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\htmlwriter\\outputforflash.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\htmlwriter\\outputforflash.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\index.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\inlineall.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\inlineall.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\inlinebycode.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\inlinebycode.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\inlinetextarea.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\inlinetextarea.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\jquery.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\jquery.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\magicline\\magicline.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\magicline\\magicline.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\readonly.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\readonly.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\replacebyclass.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\replacebyclass.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\replacebycode.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\replacebycode.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\sample.css",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\sample.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\sample.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\sample.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\sample_posteddata.php",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\sample_posteddata.php"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\tabindex.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\tabindex.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\toolbar\\toolbar.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\toolbar\\toolbar.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\uicolor.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\uicolor.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\uilanguages.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\uilanguages.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\old\\xhtmlstyle.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\old\\xhtmlstyle.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\index.html",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\LICENSE",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\dialog.css",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\dialog.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\dialog_ie.css",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\dialog_ie.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\editor.css",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\editor.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\editor_gecko.css",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\editor_gecko.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\editor_ie.css",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\editor_ie.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\editor_ie8.css",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\editor_ie8.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\icons.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\images\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\images\\close.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\images\\lock.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\images\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\images\\refresh.png",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\images\\refresh.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\readme.md",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\skins\\moono-lisa\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\thirdPart\\ckeditor\\styles.js",
+      "PackagePath": "staticwebassets\\temp\\thirdPart\\ckeditor\\styles.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\404-page.html",
+      "PackagePath": "staticwebassets\\temp\\web\\404-page.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\about.html",
+      "PackagePath": "staticwebassets\\temp\\web\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\accordions.html",
+      "PackagePath": "staticwebassets\\temp\\web\\accordions.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\alerts.html",
+      "PackagePath": "staticwebassets\\temp\\web\\alerts.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\blog-default.html",
+      "PackagePath": "staticwebassets\\temp\\web\\blog-default.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\blog-single.html",
+      "PackagePath": "staticwebassets\\temp\\web\\blog-single.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\call-to-action.html",
+      "PackagePath": "staticwebassets\\temp\\web\\call-to-action.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\contact-us.html",
+      "PackagePath": "staticwebassets\\temp\\web\\contact-us.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\temp\\web\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\temp\\web\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\css\\images\\ui-icons_444444_256x240.html",
+      "PackagePath": "staticwebassets\\temp\\web\\css\\images\\ui-icons_444444_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\css\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\temp\\web\\css\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\css\\images\\ui-icons_777777_256x240.html",
+      "PackagePath": "staticwebassets\\temp\\web\\css\\images\\ui-icons_777777_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\css\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\temp\\web\\css\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\css\\images\\ui-icons_ffffff_256x240.html",
+      "PackagePath": "staticwebassets\\temp\\web\\css\\images\\ui-icons_ffffff_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\temp\\web\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\temp\\web\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\temp\\web\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\css\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\temp\\web\\css\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\temp\\web\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\css\\style.css",
+      "PackagePath": "staticwebassets\\temp\\web\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\temp\\web\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\fonts\\fontawesome-webfont3e6e.html",
+      "PackagePath": "staticwebassets\\temp\\web\\fonts\\fontawesome-webfont3e6e.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\temp\\web\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\temp\\web\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\temp\\web\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\temp\\web\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\gallery.html",
+      "PackagePath": "staticwebassets\\temp\\web\\gallery.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\about_item_1.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\about_item_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\about_item_2.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\about_item_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\about_item_3.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\about_item_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\about_item_4.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\about_item_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\adventure.png",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\adventure.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\airplane.png",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\airplane.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\author.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\calendar.png",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\calendar.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\car.png",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\car.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\car_wash.png",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\car_wash.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\certificate_1.png",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\certificate_1.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\certificate_2.png",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\certificate_2.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\certificate_3.png",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\certificate_3.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\contact_pageheader.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\contact_pageheader.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\cta_boxed_img.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\cta_boxed_img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\cta_full_img.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\cta_full_img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\destination_1.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\destination_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\destination_2.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\destination_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\destination_3.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\destination_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\destination_4.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\destination_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\destination_5.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\destination_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\destination_6.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\destination_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\device_img.png",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\device_img.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\disability.png",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\disability.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\dummy_logo_1.png",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\dummy_logo_1.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\dummy_logo_2.png",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\dummy_logo_2.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\dummy_logo_3.png",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\dummy_logo_3.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\dummy_logo_4.png",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\dummy_logo_4.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\error_wrapper.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\error_wrapper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\ft_logo.png",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\ft_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\gallery_big_1.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\gallery_big_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\gallery_big_2.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\gallery_big_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\gallery_big_3.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\gallery_big_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\gallery_big_4.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\gallery_big_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\gallery_big_5.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\gallery_big_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\gallery_big_6.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\gallery_big_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\gallery_small_1.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\gallery_small_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\gallery_small_2.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\gallery_small_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\gallery_small_3.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\gallery_small_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\gallery_small_4.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\gallery_small_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\gallery_small_5.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\gallery_small_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\gallery_small_6.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\gallery_small_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\hotel.png",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\hotel.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\hotel_1.png",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\hotel_1.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\left_img.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\left_img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\left_quote.png",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\left_quote.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\logo.png",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\newsletter_wrapper.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\newsletter_wrapper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\pageheader.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\pageheader.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\passport.png",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\passport.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\play_btn.png",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\play_btn.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\post_pageheader.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\post_pageheader.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\post_thumb_1.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\post_thumb_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\post_thumb_2.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\post_thumb_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\post_thumb_3.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\post_thumb_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\post_thumb_4.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\post_thumb_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\post_thumb_5.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\post_thumb_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\post_thumb_6.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\post_thumb_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\question_icon.png",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\question_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\recent_post_1.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\recent_post_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\recent_post_2.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\recent_post_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\recent_post_3.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\recent_post_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\related_post_1.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\related_post_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\related_post_2.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\related_post_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\right_img.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\right_img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\service_wrapper.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\service_wrapper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\slide_big_1.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\slide_big_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\slide_big_2.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\slide_big_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\slide_big_3.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\slide_big_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\slide_big_4.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\slide_big_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\slide_small_1.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\slide_small_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\slide_small_2.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\slide_small_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\slide_small_3.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\slide_small_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\slide_small_4.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\slide_small_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\slider_1.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\slider_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\slider_2.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\slider_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\slider_3.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\slider_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\team_member_1.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\team_member_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\team_member_2.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\team_member_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\team_member_3.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\team_member_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\team_member_4.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\team_member_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\testi_img_1.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\testi_img_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\testi_img_2.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\testi_img_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\testi_img_3.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\testi_img_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\testi_img_4.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\testi_img_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\testi_img_5.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\testi_img_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\testi_img_6.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\testi_img_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\tour_img_1.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\tour_img_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\tour_img_2.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\tour_img_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\tour_img_3.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\tour_img_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\tour_img_4.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\tour_img_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\tour_pageheader.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\tour_pageheader.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\user_img_1.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\user_img_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\user_img_2.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\user_img_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\user_img_3.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\user_img_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\images\\video_img.jpg",
+      "PackagePath": "staticwebassets\\temp\\web\\images\\video_img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\index.html",
+      "PackagePath": "staticwebassets\\temp\\web\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\temp\\web\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\js\\date.js",
+      "PackagePath": "staticwebassets\\temp\\web\\js\\date.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\temp\\web\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\temp\\web\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\temp\\web\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\temp\\web\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\js\\menumaker.js",
+      "PackagePath": "staticwebassets\\temp\\web\\js\\menumaker.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\js\\multiple-carousel.js",
+      "PackagePath": "staticwebassets\\temp\\web\\js\\multiple-carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\temp\\web\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\js\\owl.carousel2.thumbs.min.js",
+      "PackagePath": "staticwebassets\\temp\\web\\js\\owl.carousel2.thumbs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\js\\popup-gallery.js",
+      "PackagePath": "staticwebassets\\temp\\web\\js\\popup-gallery.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\js\\return-to-top.js",
+      "PackagePath": "staticwebassets\\temp\\web\\js\\return-to-top.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\js\\sticky-header.js",
+      "PackagePath": "staticwebassets\\temp\\web\\js\\sticky-header.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\js\\thumb.js",
+      "PackagePath": "staticwebassets\\temp\\web\\js\\thumb.js"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\styleguide.html",
+      "PackagePath": "staticwebassets\\temp\\web\\styleguide.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\tab.html",
+      "PackagePath": "staticwebassets\\temp\\web\\tab.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\template-feature.html",
+      "PackagePath": "staticwebassets\\temp\\web\\template-feature.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\testimonials.html",
+      "PackagePath": "staticwebassets\\temp\\web\\testimonials.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\tour-booking.html",
+      "PackagePath": "staticwebassets\\temp\\web\\tour-booking.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\tour-list.html",
+      "PackagePath": "staticwebassets\\temp\\web\\tour-list.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\tour-single-list.html",
+      "PackagePath": "staticwebassets\\temp\\web\\tour-single-list.html"
+    },
+    {
+      "Id": "C:\\Users\\kurtulusocL\\Desktop\\HotelReservation\\HotelReservation.WebUI\\wwwroot\\temp\\web\\tour-single.html",
+      "PackagePath": "staticwebassets\\temp\\web\\tour-single.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.HotelReservation.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.HotelReservation.WebUI.props",
+      "PackagePath": "build\\HotelReservation.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.HotelReservation.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\HotelReservation.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.HotelReservation.WebUI.props",
+      "PackagePath": "buildTransitive\\HotelReservation.WebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

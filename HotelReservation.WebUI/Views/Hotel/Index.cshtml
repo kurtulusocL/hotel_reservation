@@ -1,0 +1,76 @@
+﻿@model IEnumerable<Hotel>
+@{
+    ViewData["Title"] = "Hotel Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                <div class="page-caption">
+                    <h1 class="page-title">@ViewData["Title"]</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="content">
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-xl-5 col-lg-5 col-md-7 col-sm-12 col-12">
+                    <div class="post-block">
+                        <div class="post-img">
+                            <a class="imghover">
+                                <img src="~/img/us/hotel/@item.CoverImage" alt="@item.CoverImage" style="max-height:469px;max-width:448px;min-height:469px;min-width:448px;" class="img-responsive">
+                            </a>
+                        </div>
+                        <div class="post-content">
+                            <h3 class="post-title"><a class="title">@item.Name</a></h3>
+                            <div class="meta">
+                                <span class="meta-date">@item.CreatedDate.ToShortDateString()</span>
+                                <span>/</span>
+                                <span class="meta-comments">@item.Comments.Count() Comments</span>
+                            </div>
+                        </div>
+                    </div> 
+                    <a asp-controller="Picture" asp-action="Index"  class="btn btn-outline-info btn-sm">See to More Image</a>
+                </div>
+            }
+            @foreach (var item in Model)
+            {
+                <div class="col-xl-7 col-lg-7 col-md-5 col-sm-12 col-12">
+                    <div class="highlights-section mb60">
+                        <h3>Our Hotel for Your Dream Holiday</h3>
+                        <p>@item.Title </p>
+                        <p>@item.Description</p>
+                        <p>
+                            <a asp-controller="Hotel" asp-action="CreateComment" asp-route-id="@item.Id" class="btn btn-outline-primary btn-sm">Drop a Review</a>
+                        </p>
+                        <h4 class="mb30">Hotel Images Highlights</h4>
+                        @await Component.InvokeAsync("HotelImage");
+                    </div>
+                </div>
+            }
+        </div>
+        <div class="col-xl-8 col-lg-8 col-md-7 col-sm-12 col-12">
+            <div class="comment-area">
+                <div class="row">
+                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                        <div class="">
+                            <h4 class="mb30">Reviews</h4>
+                            <ul class="comment-list list-none">
+                                @foreach (var item in Model)
+                                {
+                                    @await Component.InvokeAsync("HotelComment",new{id=item.Id})
+                                }
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

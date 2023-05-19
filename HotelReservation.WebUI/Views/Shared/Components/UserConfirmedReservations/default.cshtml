@@ -1,0 +1,21 @@
+﻿@model IEnumerable<Reservation>
+@{
+    Layout = null;
+}
+
+@foreach(var item in Model)
+{
+    <li>
+        <a asp-controller="HomeUser" asp-action="MyConfirmedReservations" asp-route-id="@item.AppUserId">
+            <div class="list-item">                
+                <div class="list-body">
+                    <span class="message-author">@item.TotalPrice.ToString() </span>
+                    <span class="message-time">@item.CreatedDate.ToShortDateString()</span>
+                    <div class="clearfix"></div>
+                    <span class="message-content">@item.NumberOfPeople, @item.NumberOfRoom</span>
+                    <span class="message-content">@item.EntryDate.ToShortDateString(), @item.DepartureDate.ToShortDateString()</span>
+                </div>
+            </div>
+        </a>
+    </li>
+}

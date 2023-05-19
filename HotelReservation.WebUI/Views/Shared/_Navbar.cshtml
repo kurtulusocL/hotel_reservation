@@ -1,0 +1,51 @@
+﻿@{
+    Layout = null;
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-xl-3 col-lg-2 col-md-3 col-sm-3 col-12">
+            <div class="logo">
+                <a asp-controller="Home" asp-action="Index">
+                    <img src="~/temp/web/images/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="col-xl-9 col-lg-10 col-md-9 col-sm-12 col-12">
+            <div class="navigation">
+                <div id="navigation">
+                    <ul>
+                        <li class="active"><a asp-controller="Home" asp-action="Index">Home</a></li>
+                        <li class="has-sub">
+                            <a href="#">Hotel</a>
+                            <ul>
+                                <li><a asp-controller="Hotel" asp-action="Index">Hotel</a></li>
+                                <li><a asp-controller="Picture" asp-action="Index">Hotel Image</a></li>
+                            </ul>
+                        </li>
+                        <li><a asp-controller="Guide" asp-action="Index">Guide</a></li>
+                        <li><a asp-controller="Pricing" asp-action="Index">Pricing & Reservation</a></li>
+                        <li><a asp-controller="About" asp-action="Index">About</a></li>
+                        <li><a asp-controller="Contact" asp-action="Index">Contact Us</a></li>
+                        @if (User.Identity.IsAuthenticated == true)
+                        {
+                            if (User.IsInRole("Users"))
+                            {
+                                <li><a a asp-controller="UserAuth" asp-action="Logout" class="btn btn-outline-primary btn-sm">Logout</a></li>
+                            }
+                            if (User.IsInRole("Admins") || User.IsInRole("AsistantAdmins"))
+                            {
+                                <li><a a asp-controller="AdminAuth" asp-action="Logout" class="btn btn-outline-primary btn-sm">Logout</a></li>
+                            }
+                        }
+                        else
+                        {
+                            <li><a a asp-controller="UserAuth" asp-action="Login" class="btn btn-outline-primary btn-sm">Login</a></li>
+                            <li> <a a asp-controller="UserAuth" asp-action="Register" class="btn btn-outline-success btn-sm">Register</a></li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

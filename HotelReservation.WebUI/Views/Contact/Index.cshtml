@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Contact>
+@{
+    ViewData["Title"] = "Contact Us";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="contact-pageheader"></div>
+<div class="space-small">
+    <div class="container">
+        <div class="row ">
+            <div class="col-xl-4 col-lg-4 col-md-12 col-sm-6 col-12 mb20">
+                <div class="contact-info">
+                    <h4 class="contact-info-title">Head Office Location</h4>
+                    <div class="contact-info-content">
+                        @foreach (var item in Model)
+                        {
+                            <i class="fa fa-map-marker contact-info-icon"></i>
+                            <p>@item.City, @item.Province, @item.Country</p>
+                            <p>@item.Address</p>
+                        }
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xl-4 col-lg-4 col-md-12 col-sm-6 col-12 mb20">
+                <div class="contact-info">
+                    <h4 class="contact-info-title">Call Us</h4>
+                    <div class="contact-info-content">
+                        @foreach (var item in Model)
+                        {
+                            <i class="fa fa-phone contact-info-icon"></i>
+                            <p>
+                                <strong>
+                                    @item.PhoneNumber
+                                </strong>
+                            </p>
+                        }
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-12 col-sm-6 col-12 mb20 ">
+                <div class="contact-info">
+                    <h4 class="contact-info-title">Email Us</h4>
+                    <div class="contact-info-content">
+                        @foreach (var item in Model)
+                        {
+                            <i class="fa fa-envelope contact-info-icon"></i>
+                            <p>
+                                <strong>@item.EmailAddress</strong>
+                            </p>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

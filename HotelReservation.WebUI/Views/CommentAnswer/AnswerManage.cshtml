@@ -1,0 +1,98 @@
+﻿@using System.Web
+@using X.PagedList.Mvc.Core
+@using X.PagedList
+@using X.PagedList.Web.Common
+@model IPagedList<CommentAnswer>
+@{
+    ViewData["Title"] = "Comment Answer Manager";
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+
+<div class="page-wrapper">
+    <div class="content">
+        <div class="row">
+            <div class="col-sm-12">
+                <h4 class="page-title">@ViewData["Title"]</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="card-box">
+                    <div class="card-block">
+                        <p class="content-group">
+                            <a asp-controller="CommentAnswer" asp-action="kurtulusocL" class="btn btn-outline-dark btn-sm btn-rounded">Comment Answer List</a>
+                        </p>
+                        <div class="table-responsive">
+                            <table class=" table table-hover ">
+                                <thead>
+                                    <tr>
+                                        <th>Comment</th>
+                                        <th>Title</th>
+                                        <th>Answer</th>
+                                        <th>Hit</th>
+                                        <th>Like</th>
+                                        <th>Dislike</th>
+                                        <th>Ops</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td>
+                                                @if (item.CommentId != null)
+                                                {
+                                                    <a asp-controller="CommentAnswer" asp-action="Comment" asp-route-id="@item.CommentId">
+                                                        @item.Comment.EmailAddress
+                                                    </a>
+                                                }
+                                            </td>
+                                            <td>@item.Title</td>
+                                            <td>
+                                                @if (item.Answer.Length > 55)
+                                                {
+                                                    @Html.Raw(HttpUtility.HtmlDecode(More.SafeSubstring(item.Answer,55)+"..."))
+                                                }
+                                                else
+                                                {
+                                                    @Html.Raw(HttpUtility.HtmlDecode(More.SafeSubstring(item.Answer,55)))
+                                                }
+                                            </td>
+                                            <td>
+                                                @if (item.Hit != null)
+                                                {
+                                                    @item.Hit.Value.ToString()
+                                                }
+                                            </td>
+                                            <td>
+                                                @if (item.Like != null)
+                                                {
+                                                    @item.Like.Value.ToString()
+                                                }
+                                            </td>
+                                            <td>
+                                                @if (item.Dislike != null)
+                                                {
+                                                    @item.Dislike.Value.ToString()
+                                                }
+                                            </td>
+                                            <td>
+                                                <a asp-controller="CommentAnswer" asp-action="Detail" asp-route-id="@item.Id" class="btn btn-outline-info btn-sm">Detail</a>
+                                                <a asp-controller="CommentAnswer" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-outline-danger btn-sm btn-rounded">Delete</a>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="pagination">
+                            <div class="pagination-info">
+                                @Html.PagedListPager(Model, page => Url.Action("AnswerManage", new { page }), PagedListRenderOptions.ClassicPlusFirstAndLast)
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

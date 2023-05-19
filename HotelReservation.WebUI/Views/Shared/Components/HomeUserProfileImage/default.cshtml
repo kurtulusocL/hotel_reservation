@@ -1,0 +1,13 @@
+﻿@model ProfileImage
+@{
+    Layout = null;
+}
+
+@if (Model != null)
+{
+    <img src="~/img/user/profile/@Model.Image" alt="@Model.Image" class="rounded-circle" style="max-height:170px;max-width:170px;min-height:170px;min-width:170px;">
+}
+else
+{
+    <img src="~/img/statics/userImage.jpg" alt="user image" class="rounded-circle" style="max-height:170px;max-width:170px;min-height:170px;min-width:170px;">
+}

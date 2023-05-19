@@ -1,0 +1,15 @@
+﻿@model IEnumerable<Picture>
+@{
+    Layout=null;
+}
+
+@foreach(var item in Model)
+{
+    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12 nopl nopr">
+        <div class="destination-block">
+            <div class="desti-img">
+                <img src="~/img/us/web/@item.ImageUrl" alt="@item.ImageUrl" style="max-height:383px;max-width:730px;min-height:383px;min-width:730px;">
+            </div>
+        </div>
+    </div>
+}

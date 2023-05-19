@@ -1,0 +1,69 @@
+﻿@model IEnumerable<Hotel>
+@{
+    ViewData["Title"] = "Hotel Manager";
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+
+<div class="page-wrapper">
+    <div class="content">
+        <div class="row">
+            <div class="col-sm-12">
+                <h4 class="page-title">@ViewData["Title"]</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="card-box">
+                    <div class="card-block">
+                        <p class="content-group">
+                            <a asp-controller="Hotel" asp-action="Create" class="btn btn-outline-primary btn-sm btn-rounded">+ Add New One</a> - <a asp-controller="Hotel" asp-action="kurtulusocL" class="btn btn-outline-dark btn-sm btn-rounded">Hotel List</a>
+                        </p>
+                        <div class="table-responsive">
+                            <table class=" table table-hover ">
+                                <thead>
+                                    <tr>
+                                        <th>Image</th>
+                                        <th>Name</th>
+                                        <th>Title</th>
+                                        <th>Promotion</th>
+                                        <th>Comments</th>
+                                        <th>Ops</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td>
+                                                <img src="~/img/us/hotel/@item.CoverImage" style="max-height:90px;max-width:80px;min-height:90px;min-width:80px" class="img-responsive">
+                                            </td>
+                                            <td>@item.Name</td>
+                                            <td>@item.Title</td>
+                                            <td>
+                                                @if (item.IsPromotion==true)
+                                                {
+                                                    <span>Promotion</span>
+                                                }
+                                                else
+                                                {
+                                                    <span>Not Promotion</span>
+                                                }
+                                            </td>
+                                            <td>@item.Comments.Count()</td>
+                                            <td>
+                                                <a asp-controller="Hotel" asp-action="HotelDetail" asp-route-id="@item.Id" class="btn btn-outline-info btn-sm">Detail</a>
+                                                <a asp-controller="Hotel" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-outline-success btn-sm">Edit</a>
+                                                 <a asp-controller="Hotel" asp-action="PromotionUpdate" asp-route-id="@item.Id" class="btn btn-outline-success btn-sm">Promotion Update</a>
+                                                  <a asp-controller="Hotel" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-outline-danger btn-sm btn-rounded">Delete</a>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Pricing>
+@{
+    ViewData["Title"] = "Our Pricing List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                <div class="page-caption">
+                    <h1 class="page-title">@ViewData["Title"]</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="content">
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
+                    <div class="destination-block">
+                        <div class="desti-img">
+                            <img src="~/temp/web/images/destination_4.jpg" alt="">
+                            <a class="desti-title"><strong>@item.Accomodation</strong></a>
+                            <div class="overlay">
+                            </div>
+                            <div class="text">
+                                <h3 class="mb20 text-white">@item.Accomodation</h3>
+                                <ul class="angle list-none">
+                                    <li>Total @item.Reservations.Count() reservations</li>
+                                </ul>
+                                <p class="price">$@item.Price</p>
+                                @if (User.Identity.IsAuthenticated==true)
+                                {
+                                    if (User.IsInRole("Users"))
+                                    {
+                                        <a asp-controller="Reservation" asp-action="CreateReservation" asp-route-id="@item.Id" class="btn-link">Go for Reservation <i class="fa fa-angle-right"></i></a>
+                                    }
+                                }
+                                else
+                                {
+                                    <a asp-controller="UserAuth" asp-action="Login" class="btn-link">Plese Login <i class="fa fa-angle-right"></i></a> <span>or</span>
+                                    <br />
+                                    <a asp-controller="UserAuth" asp-action="Register" class="btn-link">Plese Register <i class="fa fa-angle-right"></i></a>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

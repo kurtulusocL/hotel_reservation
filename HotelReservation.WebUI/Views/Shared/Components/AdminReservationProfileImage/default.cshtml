@@ -1,0 +1,17 @@
+﻿@model ProfileImage
+@{
+    Layout = null;
+}
+
+@if (Model != null)
+{
+    <a class="avatar">
+        <img src="~/img/user/profile/@Model.Image" alt="@Model.Image" style="max-height:38px;max-width:38px">
+    </a>
+}
+else
+{
+    <a class="avatar">
+        <img src="~/img/statics/userImage.jpg" alt="userImage.jpg" style="max-height:38px;max-width:38px">
+    </a>
+}

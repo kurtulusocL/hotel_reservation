@@ -1,0 +1,45 @@
+﻿@model IEnumerable<ReservationPolicy>
+@{
+    ViewData["Title"] = "Reservation Policies";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                <div class="page-caption">
+                    <h1 class="page-title">@ViewData["Title"]</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="content">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-8 col-lg-8 offset-md-2 col-md-8 col-sm-12 col-12">
+                <p class="lead">@ViewData["Title"]</p>
+                <div id="accordion">
+                    @foreach (var item in Model)
+                    {
+                        <div class="accordion-card card">
+                            <div class="accordion-card-header" id="@item.Id">
+                                <h5 class="mb-0">
+                                    <a role="button" href="@item.Id" class="accordion-card-title" data-toggle="collapse" data-target="#@item.Id" aria-expanded="true" aria-controls="@item.Id">
+                                       @item.Title  <span class="fa fa-angle-down pull-right"></span>
+                                    </a>
+                                </h5>
+                            </div>
+                            <div id="@item.Id" class="collapse show" aria-labelledby="headingOne" data-parent="#@item.Id">
+                                <div class="card-body">
+                                   @item.Description
+                                </div>
+                            </div>
+                        </div>
+                    }                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

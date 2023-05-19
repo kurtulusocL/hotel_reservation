@@ -1,0 +1,12 @@
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Core\bin\Debug\net6.0\HotelReservation.Core.deps.json
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Core\bin\Debug\net6.0\HotelReservation.Core.dll
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Core\bin\Debug\net6.0\HotelReservation.Core.pdb
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Core\obj\Debug\net6.0\HotelReservation.Core.csproj.AssemblyReference.cache
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Core\obj\Debug\net6.0\HotelReservation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Core\obj\Debug\net6.0\HotelReservation.Core.AssemblyInfoInputs.cache
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Core\obj\Debug\net6.0\HotelReservation.Core.AssemblyInfo.cs
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Core\obj\Debug\net6.0\HotelReservation.Core.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Core\obj\Debug\net6.0\HotelReservation.Core.dll
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Core\obj\Debug\net6.0\refint\HotelReservation.Core.dll
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Core\obj\Debug\net6.0\HotelReservation.Core.pdb
+C:\Users\kurtulusocL\Desktop\HotelReservation\HotelReservation.Core\obj\Debug\net6.0\ref\HotelReservation.Core.dll

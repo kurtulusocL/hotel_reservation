@@ -1,0 +1,85 @@
+﻿@model IEnumerable<Comment>
+@{
+    ViewData["Title"] = "Comment List that You Typed";
+    Layout = "~/Views/Shared/_userLayout.cshtml";
+}
+
+<div class="page-wrapper">
+    <div class="content">
+        <div class="row">
+            <div class="col-sm-12">
+                <h4 class="page-title">@ViewData["Title"]</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                @foreach (var item in Model)
+                {
+                    <div class="card-box">
+                        <div class="mailview-content">
+                            <div class="mailview-header">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        @if (item.HotelId != null)
+                                        {
+                                            <div class="text-ellipsis m-b-10">
+                                                <span class="mail-view-title">Hotel Comment -> @item.Hotel.Name</span>
+                                            </div>
+                                        }
+                                        else
+                                        {
+                                            <div class="text-ellipsis m-b-10">
+                                                <span class="mail-view-title">Image Comment</span>
+                                            </div>
+                                        }
+                                    </div>
+                                </div>
+                                <div class="sender-info">
+                                    <div class="receiver-details float-left">
+                                        <span class="sender-name">@item.NameSurname</span>
+                                        <span class="receiver-name">
+                                            <span>@item.EmailAddress</span>
+                                        </span>
+                                    </div>
+                                    <div class="mail-sent-time">
+                                        <span class="mail-time">@item.CreatedDate.ToShortDateString()</span>
+                                    </div>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </div>
+                            <div class="mailview-inner">
+                                <p></p>
+                                <p><strong>Subject: </strong> @item.Subject</p>
+                                <p><strong>Comment: </strong> @item.Text</p>
+                            </div>
+                        </div>
+                        <div class="mailview-footer">
+                            <div class="row">
+                                <div class="col-sm-6 left-action">
+                                    <button type="button" class="btn btn-white"><i class="fa fa-reply"></i> @item.CommentAnswers.Count() answers</button>
+                                    @if (item.CommentAnswers.Count() > 0)
+                                    {
+                                        <a asp-controller="HomeUser" asp-action="CommentAnswer" asp-route-id="@item.Id" class="btn btn-white"><i class="fa fa-comment"></i> Read Answers</a>
+                                    }
+                                </div>
+                                <div class="col-sm-6 right-action">
+                                    <a asp-controller="HomeUser" asp-action="DeleteComment" asp-route-id="@item.Id" class="btn btn-white"><i class="fa fa-trash-o"></i> Delete</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+            <div class="row">
+                @if (TempData["success"] != null)
+                {
+                    <h3>@TempData["success"]</h3>
+                }
+                else
+                {
+                    <h3>@TempData["error"]</h3>
+                }
+            </div>
+        </div>
+    </div>
+</div>

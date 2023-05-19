@@ -1,0 +1,53 @@
+﻿@model IEnumerable<ExceptionLogger>
+@{
+    ViewData["Title"] = "Log List";
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+
+<div class="page-wrapper">
+    <div class="content">
+        <div class="row">
+            <div class="col-sm-12">
+                <h4 class="page-title">@ViewData["Title"]</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="card-box">
+                    <div class="card-block">
+                        <p class="content-group">
+                            <a asp-controller="ExceptionLogger" asp-action="LoggerManage" class="btn btn-outline-dark btn-sm btn-rounded">Log Manager</a>
+                        </p>
+                        <div class="table-responsive">
+                            <table class=" table table-hover ">
+                                <thead>
+                                    <tr>
+                                        <th>Exception Message</th>
+                                        <th>Controller</th>
+                                        <th>Stack Trace</th>
+                                        <th>Date</th>
+                                        <th>Ops</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td>@item.ExceptionMessage</td>
+                                            <td>@item.ControllerName</td>
+                                            <td>@item.ExceptionStackTrace</td>
+                                            <td>@item.CreatedDate.ToShortDateString()</td>
+                                            <td>
+                                                <a asp-controller="ExceptionLogger" asp-action="Detail" asp-route-id="@item.Id" class="btn btn-outline-info btn-sm">Detail</a>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

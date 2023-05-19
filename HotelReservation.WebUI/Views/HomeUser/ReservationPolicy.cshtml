@@ -1,0 +1,41 @@
+﻿@model IEnumerable<ReservationPolicy>
+@{
+    ViewData["Title"] = "Our Reservation Policies";
+    ViewData["Desc"] = "practicodom.com Policy";
+    Layout = "~/Views/Shared/_userLayout.cshtml";
+}
+
+<div class="page-wrapper">
+    <div class="content">
+        <div class="row">
+            <div class="col-sm-12">
+                <h4 class="page-title">@ViewData["Title"]</h4>
+                <h4 class="page-title">@ViewData["Desc"]</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="activity">
+                    <div class="activity-box">
+                        <ul class="activity-list">
+                            @foreach (var item in Model)
+                            {
+                                <li>
+                                    <div class="activity-content">
+                                        <div class="timeline-content">
+                                            <a class="name">
+                                                <strong>@item.Title</strong>
+                                            </a>
+                                            <br />
+                                            <a class="name">@Html.Raw(item.Description)</a>
+                                        </div>
+                                    </div>
+                                </li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,94 @@
+﻿@model Comment
+@{
+    ViewData["Title"] = "Drop A Review About Us";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="post-pageheader">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                <div class=" post-captions">
+                    <h3 class="post-title"><a href="#" class="title">@ViewData["Title"]</a></h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="content">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-10 col-lg-10 col-md-7 col-sm-12 col-12">
+                <div class="comment-area">
+                    <div class="row">
+                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                            <div class="">
+                                <h4 class="mb30">Image Reviews</h4>
+                                <ul class="comment-list list-none">
+                                    @await Component.InvokeAsync("ImageComment",new{id=Model.PictureId})
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row ">
+            <div class="col-xl-10 col-lg-10 col-md-10 col-sm-12 col-12">
+                <div class="leave-comments mb30">
+                    <h3 class="leave-comments-title">Drop A Review</h3>
+                    <form method="post" action="CreateComment">
+                        @Html.AntiForgeryToken()
+                        <div class="row">
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                <div class="form-group">
+                                    <label class="control-label" for="textarea"> Comments</label>
+                                    <textarea class="form-control" asp-for="Text" name="Text" rows="5" placeholder="Your comment is here"></textarea>
+                                </div>
+                            </div>
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                <div class="form-group">
+                                    <label class="control-label required" for="website"> Subject</label>
+                                    <input asp-for="Subject" name="Subject" type="text" class="form-control" placeholder="Comment subject" required="">
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+                                <div class="form-group">
+                                    <label class="control-label required" for="name">Name Surname</label>
+                                    <input asp-for="NameSurname" name="NameSurname" type="text" class="form-control" placeholder="Name-Surname" required="">
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+                                <div class="form-group">
+                                    <label class="control-label required" for="email"> Email</label>
+                                    <input asp-for="EmailAddress" name="EmailAddress" type="email" class="form-control" placeholder="Email Address" required="">
+                                </div>
+                            </div>
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                <div class="form-group">
+                                    <button id="singlebutton" name="singlebutton" class="btn btn-primary btn-sm">Send Comment</button>
+                                    <input type="hidden" asp-for="PictureId" />
+                                    <input type="hidden" asp-for="AppUserId" />
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                @if (TempData["success"] != null)
+                {
+                    <h3>@TempData["success"]</h3>
+                }
+                @if (TempData["CaptchaError"] != null)
+                {
+                    <h3>@TempData["CaptchaError"]</h3>
+                }
+                else
+                {
+                    <h3>@TempData["error"]</h3>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+

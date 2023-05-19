@@ -1,0 +1,78 @@
+﻿@model AppUser
+@{
+    ViewData["Title"] = "Profile";
+    ViewData["Desc"] = "Hi, Welcome to your Profile";
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+
+<div class="page-wrapper">
+    <div class="content">
+        <div class="row">
+            <div class="col-sm-7 col-6">
+                <h4 class="page-title"> @ViewData["Desc"]</h4>
+            </div>
+            <div class="col-sm-5 col-6 text-right m-b-30">
+                <a asp-controller="UserAuth" asp-action="UpdateProfile" asp-route-id="@Model.Id" class="btn btn-primary btn-rounded"><i class="fa fa-pencil"></i> Edit Profile</a>  <a asp-controller="UserAuth" asp-action="ChangePassword" asp-route-id="@Model.Id" class="btn btn-success btn-rounded"><i class="fa fa-pencil"></i> Change Password</a>
+            </div>
+        </div>
+        <div class="card-box profile-header">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="profile-view">
+                        <div class="profile-img-wrap">
+                            @await Component.InvokeAsync("UserProfileImage", new{id=Model.Id})
+                        </div>
+                        <div class="profile-basic">
+                            <div class="row">
+                                <div class="col-md-5">
+                                    <div class="profile-info-left">
+                                        <h3 class="user-name m-t-0 mb-0">@Model.NameSurname</h3>
+                                        <div class="staff-id">@Model.UserName</div>
+                                        <div class="staff-msg">
+                                            <a asp-controller="UserAuth" asp-action="MyProfilePhotoList" asp-route-id="@Model.Id" target="_blank" class="btn btn-outline-primary btn-sm">Profile Photo List</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-7">
+                                    <ul class="personal-info">
+                                        <li>
+                                            <span class="title">Phone:</span>
+                                            <span class="text"><a>@Model.PhoneNumber</a></span>
+                                        </li>
+                                        <li>
+                                            <span class="title">Email:</span>
+                                            <span class="text"><a>@Model.Email</a></span>
+                                        </li>
+                                        <li>
+                                            <span class="title">Birthdate:</span>
+                                            <span class="text">@Model.Birthdate.ToShortDateString()</span>
+                                        </li>
+                                        <li>
+                                            <span class="title">Country:</span>
+                                            <span class="text">@Model.Country</span>
+                                        </li>
+                                        <li>
+                                            <span class="title">Gender:</span>
+                                            <span class="text">@Model.Gender</span>
+                                        </li>
+                                        <li>
+                                            <span class="title">Joined At:</span>
+                                            <span class="text">@Model.CreatedDate.ToShortDateString()</span>
+                                        </li>
+                                        @if (Model.UpdatedDate != null)
+                                        {
+                                            <li>
+                                                <span class="title">Profile Last Updated At:</span>
+                                                <span class="text">@Model.UpdatedDate.Value.ToShortDateString()</span>
+                                            </li>
+                                        }
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

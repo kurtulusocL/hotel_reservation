@@ -1,0 +1,21 @@
+﻿@model IEnumerable<Guide>
+@{
+    Layout = null;
+}
+
+@foreach (var item in Model)
+{
+    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-12 col-12 ">
+        <div class="team-block">
+            <div class="team-img">
+                <a asp-controller="Guide" asp-action="Detail" asp-route-id="@item.Id" class="imghover">
+                    <img src="~/img/us/guide/@item.Image" alt="@item.Image" class="img-fluid" style="max-height:310px;max-width:255px;min-height:310px;min-width:255px;">
+                </a>
+            </div>
+            <div class="team-content">
+                <h4 class="team-title">@item.NameSurname</h4>
+                <p class="team-meta">@item.Expertise</p>
+            </div>
+        </div>
+    </div>
+}

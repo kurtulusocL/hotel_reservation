@@ -1,0 +1,17 @@
+﻿@model IEnumerable<Contact>
+@{
+    Layout = null;
+}
+
+@foreach (var item in Model)
+{
+    <div class="ft-contact-info">
+        <span class="ft-contact-icon"><i class="fa fa-map-marker"></i></span> <span class="ft-contact-text">@item.City, @item.Province, @item.Country, @item.Address </span>
+    </div>
+    <div class="ft-contact-info">
+        <span class="ft-contact-icon"><i class="fa fa-phone "></i></span> <span class="ft-contact-text">@item.PhoneNumber</span>
+    </div>
+    <div class="ft-contact-info">
+        <span class="ft-contact-icon"><i class="fa fa-envelope "></i></span> <span class="ft-contact-text">@item.EmailAddress</span>
+    </div>
+}

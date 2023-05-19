@@ -1,0 +1,88 @@
+﻿@using System.Web
+@model IEnumerable<About>
+@{
+    ViewData["Title"] = "About Us";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                <div class="page-caption">
+                    <h1 class="page-title">@ViewData["Title"]</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="content">
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
+                    <div class="well-block">
+                        <div>
+                            <img src="~/img/us/about/@item.Image" style="max-height:450px;max-width:850px;" alt="@item.Image" class="img-responsive">
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+    <div class="container">
+        @foreach (var item in Model)
+        {
+            <div class="row">
+                <div class="col-xl-10 col-lg-10 offset-md-1 col-md-10 col-sm-12 col-12  mb60">
+                    <div class="row">
+                        <div class="col-xl-10 col-lg-10 col-md-10 col-sm-12 col-12">
+                            <div class="">
+                                <p><strong>@item.Title</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xl-10 col-lg-10 col-md-10 col-sm-12 col-12">
+                            <div class="">
+                                <p>@item.Subtitle</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-10 col-lg-10 offset-md-1 col-md-10 col-sm-12 col-12  mb60">
+                    <div class="row">
+                        <div class="col-xl-10 col-lg-10 col-md-10 col-sm-12 col-12">
+                            <div class="">
+                                <p>
+                                    @Html.Raw(item.Description)
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                @await Component.InvokeAsync("AboutHit",new{id=item.Id})
+            </div>
+        }
+    </div>
+    <div class="space-medium">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 mb60">
+                    <div class="">
+                        <h2>Our Amazing Guides</h2>
+                    </div>
+                </div>
+                <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 col-12 mb60">
+                    <div class="">
+                        <a asp-controller="Guide" asp-action="Index" class="btn btn-outline-primary btn-sm">See All Guides</a>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                @await Component.InvokeAsync("AboutGuide")
+            </div>
+        </div>
+    </div>
+</div>

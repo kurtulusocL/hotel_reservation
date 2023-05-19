@@ -1,0 +1,16 @@
+﻿@model IEnumerable<Service>
+@{
+    Layout = null;
+}
+
+@foreach(var item in Model)
+{
+    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 nopr">
+        <div class="service-block border-bottom border-right">
+            <div class="service-img"><img src="~/temp/web/images/hotel_1.png" alt=""></div>
+            <div class="service-content">
+                <h3 class="service-title">@item.ServiceType, @item.Price</h3>
+            </div>
+        </div>
+    </div>
+}

@@ -1,0 +1,25 @@
+﻿@model AppUser
+@{
+    Layout = null;
+}
+
+@if (Model != null)
+{
+    @await Component.InvokeAsync("GetHeaderAdminImage",new{id=Model.Id})
+    <div class="dropdown-menu">
+        <a class="dropdown-item" asp-controller="HomeAdmin" asp-action="MyProfile" asp-route-id="@Model.Id">@Model.NameSurname</a>
+        <a class="dropdown-item" asp-controller="HomeAdmin" asp-action="CreateProfilePhoto" asp-route-id="@Model.Id">Add Profile Photo</a>
+        <a class="dropdown-item" asp-controller="AdminAuth" asp-action="UpdateProfile" asp-route-id="@Model.Id">Update Profile</a>
+        <a class="dropdown-item" asp-controller="AdminAuth" asp-action="ChangePassword" asp-route-id="@Model.Id">Change Password</a>
+        <a class="dropdown-item" asp-controller="AdminAuth" asp-action="Logout">Logout</a>
+    </div>
+}
+else
+{
+    <a href="#" class="dropdown-toggle nav-link user-link" data-toggle="dropdown">
+        <span class="user-img">
+            <img class="rounded-circle" src="~/img/statics/userImage.jpg" width="24" alt="Admin">
+            <span class="status online"></span>
+        </span>
+    </a>
+}

@@ -1,0 +1,44 @@
+﻿@model IEnumerable<ProfileImage>
+@{
+    ViewData["Title"] = "Your Profile Image List";
+    Layout = "~/Views/Shared/_userLayout.cshtml";
+}
+
+<div class="page-wrapper">
+    <div class="content">
+        <div class="row">
+            <div class="col-sm-12">
+                <h4 class="page-title">@ViewData["Title"]</h4>
+            </div>
+        </div>
+        <div id="lightgallery" class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 m-b-20">
+                    <img class="img-thumbnail" src="~/img/user/profile/@item.Image" alt="@item.Image">
+                    <hr />
+                    <span>
+                        @if (item.IsDeleted == false)
+                        {
+                            <a asp-controller="HomeUser" asp-action="DeleteProfilePhoto" asp-route-id="@item.Id" class="btn btn-outline-danger btn-sm">Delete</a>
+                        }
+                    </span>
+                </div>
+            }
+        </div>
+        <div class="row">
+            @if (TempData["success"] != null)
+            {
+                <strong class="alert-info">@TempData["success"]</strong>
+            }
+            @if (TempData["noImage"] != null)
+            {
+                <strong class="alert-info">@TempData["noImage"]</strong>
+            }
+            else
+            {
+                <strong class="alert-info">@TempData["error"]</strong>
+            }
+        </div>
+    </div>
+</div>

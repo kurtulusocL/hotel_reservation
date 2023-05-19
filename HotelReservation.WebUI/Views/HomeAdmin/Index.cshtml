@@ -1,0 +1,124 @@
+﻿@{
+    ViewData["Title"] = "Admin Index";
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+
+<div class="page-wrapper">
+    <div class="content">
+        <div class="col-sm-12">
+            <h4 class="page-title" style="float:left">
+                Hi @ViewData["nameSurname"] Welcome Back
+            </h4>
+            <div class="row" style="float:right">
+                <a href="~/Search/Index" target="_blank" class="btn btn-outline-primary btn-sm">Advanced Search</a> 
+            </div>
+        </div>
+        <br />
+        <hr />
+        <div class="row">
+            <div class="col-md-6 col-sm-6 col-lg-6 col-xl-3">
+                <div class="dash-widget">
+                    <span class="dash-widget-bg1"><i class="fa fa-stethoscope" aria-hidden="true"></i></span>
+                    <div class="dash-widget-info text-right">
+                        <h3>98</h3>
+                        <span class="widget-title1">Doctors <i class="fa fa-check" aria-hidden="true"></i></span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6 col-lg-6 col-xl-3">
+                <div class="dash-widget">
+                    <span class="dash-widget-bg2"><i class="fa fa-user-o"></i></span>
+                    <div class="dash-widget-info text-right">
+                        <h3>1072</h3>
+                        <span class="widget-title2">Patients <i class="fa fa-check" aria-hidden="true"></i></span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6 col-lg-6 col-xl-3">
+                <div class="dash-widget">
+                    <span class="dash-widget-bg3"><i class="fa fa-user-md" aria-hidden="true"></i></span>
+                    <div class="dash-widget-info text-right">
+                        <h3>72</h3>
+                        <span class="widget-title3">Attend <i class="fa fa-check" aria-hidden="true"></i></span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6 col-lg-6 col-xl-3">
+                <div class="dash-widget">
+                    <span class="dash-widget-bg4"><i class="fa fa-heartbeat" aria-hidden="true"></i></span>
+                    <div class="dash-widget-info text-right">
+                        <h3>618</h3>
+                        <span class="widget-title4">Pending <i class="fa fa-check" aria-hidden="true"></i></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-md-12 col-lg-12 col-xl-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h4 class="card-title d-inline-block">Last Reservations</h4> <a asp-controller="Reservation" asp-action="kurtulusocL" class="btn btn-outline-primary float-right">View all</a>
+                    </div>
+                   @await Component.InvokeAsync("AdminLastReservations")
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-md-6 col-lg-6 col-xl-6">
+                <div class="card member-panel">
+                    <div class="card-header bg-white">
+                        <h4 class="card-title mb-0">Pricing</h4>
+                    </div>
+                    <div class="card-body">
+                        <ul class="contact-list">
+                           @await Component.InvokeAsync("AdminPricing")
+                        </ul>
+                    </div>
+                    <div class="card-footer text-center bg-white">
+                        <a asp-controller="Price" asp-action="kurtulusocL" class="text-muted">View all Price Table</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-6 col-xl-6">
+                <div class="card member-panel">
+                    <div class="card-header bg-white">
+                        <h4 class="card-title mb-0">Our Services</h4>
+                    </div>
+                    <div class="card-body">
+                        <ul class="contact-list">
+                            @await Component.InvokeAsync("AdminService")
+                        </ul>
+                    </div>
+                    <div class="card-footer text-center bg-white">
+                        <a asp-controller="Service" asp-action="kurtulusocL" class="text-muted">View all Service Table</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-md-12 col-lg-12 col-xl-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h4 class="card-title d-inline-block">Some Reservations</h4> <a asp-controller="Reservation" asp-action="kurtulusocL" class="btn btn-outline-primary float-right">View all</a>
+                    </div>
+                    @await Component.InvokeAsync("AdminSomeReservations")
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="notification-box">
+        <div class="msg-sidebar notifications msg-noti">
+            <div class="topnav-dropdown-header">
+                <span>Reservations</span>
+            </div>
+            <div class="drop-scroll msg-list-scroll" id="msg_list">
+                <ul class="list-box">
+                    @await Component.InvokeAsync("GetAllAdminHeaderReservation")
+                </ul>
+            </div>
+            <div class="topnav-dropdown-footer">
+                <a asp-controller="Reservation" asp-action="kurtulusocL">See all Reservations</a>
+            </div>
+        </div>
+    </div>
+</div>
